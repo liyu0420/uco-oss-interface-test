@@ -1,0 +1,76 @@
+2020-12-30 15:53:49,340 - logs… - INFO - new_url :http://10.0.8.162:30697
+2020-12-30 15:53:50,523 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [],
+  "status": true
+}
+2020-12-30 15:54:39,822 - logs… - INFO - new_url :http://10.0.45.193:30698
+2020-12-30 15:54:40,022 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [],
+  "status": true
+}
+2020-12-30 15:56:01,476 - logs… - INFO - new_url :http://10.0.45.193:30698
+2020-12-30 15:56:01,652 - logs… - INFO - {
+  "auth": true,
+  "code": "1",
+  "msg": "获取用户自定义域名失败",
+  "res": "url错误, error: org.springframework.web.client.HttpClientErrorException: 404 Not Found",
+  "status": false
+}
+2020-12-30 15:58:12,663 - logs… - INFO - new_url :http://10.0.8.162:30697
+2020-12-30 15:58:12,955 - logs… - INFO - {
+  "auth": true,
+  "code": "1",
+  "msg": "获取用户自定义域名失败",
+  "res": "url错误, error: org.springframework.web.client.HttpClientErrorException: 404 Not Found",
+  "status": false
+}
+2020-12-30 16:00:12,041 - logs… - INFO - new_url :http://10.0.8.162:30697
+2020-12-30 16:00:12,615 - logs… - INFO - {
+  "auth": true,
+  "code": "1",
+  "msg": "获取用户自定义域名失败",
+  "res": "url错误, error: org.springframework.web.client.HttpClientErrorException: 404 Not Found",
+  "status": false
+}
+2020-12-30 16:05:30,346 - logs… - INFO - new_url :http://10.0.8.162:30697
+2020-12-30 16:06:25,607 - logs… - INFO - new_url :http://10.0.8.162:30697
+2020-12-30 16:06:26,049 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [],
+  "status": true
+}
+2020-12-30 16:07:12,851 - logs… - INFO - new_url :http://10.0.8.162:30697
+2020-12-30 16:07:13,346 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [],
+  "status": true
+}
+2020-12-30 16:07:44,096 - logs… - INFO - new_url :http://10.0.8.162:30697
+2020-12-30 16:07:44,647 - logs… - INFO - {
+  "auth": true,
+  "code": "1",
+  "msg": "获取用户自定义域名失败",
+  "res": "url错误, error: org.springframework.web.client.HttpClientErrorException: 404 Not Found",
+  "status": false
+}
+2020-12-30 16:09:06,338 - logs… - INFO - new_url :http://10.0.8.162:30697
+2020-12-30 16:09:07,075 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [],
+  "status": true
+}
+2020-12-30 16:10:50,927 - logs… - INFO - new_url :http://10.0.8.162:30697
+2020-12-30 16:12:20,573 - logs… - INFO - new_url :http://10.0.8.162:30697
+2020-12-30 16:12:42,927 - logs… - INFO - new_url :http://10.0.8.162:30697

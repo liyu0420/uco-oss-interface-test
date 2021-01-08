@@ -1,0 +1,94 @@
+2020-12-09 16:35:48,317 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-09 16:35:48,695 - logs… - INFO - {
+  "auth": true,
+  "code": "1",
+  "msg": "获取图片样式失败",
+  "res": "get access faild!java.lang.IndexOutOfBoundsException: Index: 0, Size: 0",
+  "status": false
+}
+2020-12-09 16:41:23,783 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-09 16:41:23,941 - logs… - INFO - {
+  "auth": true,
+  "code": "1",
+  "msg": "获取图片样式失败",
+  "res": "get access faild!java.lang.IndexOutOfBoundsException: Index: 0, Size: 0",
+  "status": false
+}
+2020-12-09 16:43:27,475 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-09 16:43:27,636 - logs… - INFO - {
+  "auth": true,
+  "code": "1",
+  "msg": "获取图片样式失败",
+  "res": "get access faild!java.lang.IndexOutOfBoundsException: Index: 0, Size: 0",
+  "status": false
+}
+2020-12-09 16:53:18,215 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-09 16:53:18,369 - logs… - INFO - {
+  "auth": true,
+  "code": "1",
+  "msg": "获取图片样式失败",
+  "res": "get access faild!java.lang.IndexOutOfBoundsException: Index: 0, Size: 0",
+  "status": false
+}
+2020-12-09 16:54:04,321 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-09 16:54:04,752 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "图片样式获取成功",
+  "res": {
+    "currentPage": 1,
+    "list": [
+      {
+        "breviaryHeight": null,
+        "breviaryName": null,
+        "breviaryWidth": null,
+        "bucketDomain": null,
+        "bucketName": "liyutest77",
+        "editType": null,
+        "fontColor": null,
+        "fontContent": null,
+        "fontSize": null,
+        "fontType": null,
+        "imageSize": null,
+        "limitMagnify": null,
+        "pictureRotating": null,
+        "positionX": null,
+        "positionY": null,
+        "styleCode": "image/rotate,7",
+        "styleName": "liyutest1126",
+        "waterDiaphaneity": null,
+        "waterMarkName": null,
+        "waterPicturePath": null,
+        "waterPosition": null
+      }
+    ],
+    "pageSize": 10,
+    "totalCount": 1,
+    "totalPages": 1
+  },
+  "status": true
+}
+2020-12-10 15:16:40,684 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-10 15:16:41,111 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": "false",
+  "status": true
+}
+2020-12-11 15:09:28,028 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-11 15:09:28,954 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "生成预签名成功",
+  "res": "https://liyutest77.s3.test.com/test.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20201211T070928Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1999&X-Amz-Credential=znO4FsoZop7L4GII%2F20201211%2Ftest%2Fs3%2Faws4_request&X-Amz-Signature=3635cafa926cd8a8cf0bc939b70214ce9a17698d51332e991b3f05bf4607f01a&X-Oss-Referer=cdn",
+  "status": true
+}
+2020-12-11 16:12:30,204 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-11 16:12:30,741 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "生成预签名成功",
+  "res": "https://liyutest77.s3.test.com/test.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20201211T081230Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1999&X-Amz-Credential=znO4FsoZop7L4GII%2F20201211%2Ftest%2Fs3%2Faws4_request&X-Amz-Signature=7039008d8c03e18dddf0e16f922d5e8a844a1605b74263645ccd05e88844d153&X-Oss-Referer=cdn",
+  "status": true
+}

@@ -1,0 +1,7 @@
+ossConfig/test_ossConfig_case
+order/test_product_case
+iam/test_iam_case
+monitor/test_monitor_case
+presignedUrl/test_presignedUrl_case
+user/test_user_case
+bucket/test_ossBucket_case

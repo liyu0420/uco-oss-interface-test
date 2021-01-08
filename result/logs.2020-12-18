@@ -1,0 +1,5365 @@
+2020-12-14 10:03:49,575 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-14 10:03:49,747 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [
+    {
+      "access_key": "znO4FsoZop7L4GII",
+      "access_secret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+      "create_at": 1585303396000,
+      "enabled": 1,
+      "expired_at": null,
+      "project_id": "f71633ba-8010-4330-b572-46852d50d939",
+      "project_name": "f71633ba80104330b57246852d50d939",
+      "type": "OSS",
+      "user_id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+    }
+  ],
+  "status": true
+}
+2020-12-14 10:12:44,039 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-14 10:12:44,261 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": "false",
+  "status": true
+}
+2020-12-14 10:21:05,613 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-14 10:21:06,122 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "设置样式成功",
+  "res": true,
+  "status": true
+}
+2020-12-14 13:30:16,753 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-14 13:30:17,381 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "cacheControl": "no-store",
+    "contentDisposition": null,
+    "contentEncoding": null,
+    "contentLanguage": null,
+    "contentType": "image/jpeg",
+    "httpExpiresData": null,
+    "userMetadata": {}
+  },
+  "status": true
+}
+2020-12-15 11:36:28,722 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-15 11:36:28,858 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "cacheControl": "no-store",
+    "contentDisposition": null,
+    "contentEncoding": null,
+    "contentLanguage": null,
+    "contentType": "image/jpeg",
+    "httpExpiresData": null,
+    "userMetadata": {}
+  },
+  "status": true
+}
+2020-12-15 11:38:37,142 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-15 11:38:37,271 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": "重命名文件名成功",
+  "status": true
+}
+2020-12-15 11:41:03,860 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-15 11:41:03,914 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [
+    {
+      "id": 1,
+      "region": "tetett",
+      "resource": "OSSDATA.TRAFFIC.120G.FREE|外网下行流量.120G.试用,OSS.STANDARD.150G.FREE|标准资源包.150G.试用,OSSAPI.API.120tenK.FREE|API调用包.120万次.试用",
+      "time": 1,
+      "type": "YEAR_MONTH"
+    },
+    {
+      "id": 2,
+      "region": "cn-tianjin-cto",
+      "resource": "OSSDATA.TRAFFIC.200G.FREE|外网下行流量.200G.试用,OSS.STANDARD.200G.FREE|标准资源包.200G.试用,OSSAPI.API.200tenK.FREE|API调用包.200万次.试用",
+      "time": 15,
+      "type": "DAY_TRIAL"
+    }
+  ],
+  "status": true
+}
+2020-12-15 11:41:12,040 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-15 11:41:12,056 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [
+    {
+      "id": 1,
+      "region": "tetett",
+      "resource": "OSSDATA.TRAFFIC.120G.FREE|外网下行流量.120G.试用,OSS.STANDARD.150G.FREE|标准资源包.150G.试用,OSSAPI.API.120tenK.FREE|API调用包.120万次.试用",
+      "time": 1,
+      "type": "YEAR_MONTH"
+    },
+    {
+      "id": 2,
+      "region": "cn-tianjin-cto",
+      "resource": "OSSDATA.TRAFFIC.200G.FREE|外网下行流量.200G.试用,OSS.STANDARD.200G.FREE|标准资源包.200G.试用,OSSAPI.API.200tenK.FREE|API调用包.200万次.试用",
+      "time": 15,
+      "type": "DAY_TRIAL"
+    }
+  ],
+  "status": true
+}
+2020-12-15 11:41:17,622 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-15 11:41:17,633 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [
+    {
+      "id": 1,
+      "region": "tetett",
+      "resource": "OSSDATA.TRAFFIC.120G.FREE|外网下行流量.120G.试用,OSS.STANDARD.150G.FREE|标准资源包.150G.试用,OSSAPI.API.120tenK.FREE|API调用包.120万次.试用",
+      "time": 1,
+      "type": "YEAR_MONTH"
+    },
+    {
+      "id": 2,
+      "region": "cn-tianjin-cto",
+      "resource": "OSSDATA.TRAFFIC.200G.FREE|外网下行流量.200G.试用,OSS.STANDARD.200G.FREE|标准资源包.200G.试用,OSSAPI.API.200tenK.FREE|API调用包.200万次.试用",
+      "time": 15,
+      "type": "DAY_TRIAL"
+    }
+  ],
+  "status": true
+}
+2020-12-15 11:41:24,392 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-15 11:41:24,409 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": "100",
+  "status": true
+}
+2020-12-15 11:41:37,664 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-15 11:41:37,674 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": "100",
+  "status": true
+}
+2020-12-15 11:41:51,362 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-15 11:41:51,508 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "生成预签名成功",
+  "res": "https://liyutest77.s3.test.com/test.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20201215T034151Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1999&X-Amz-Credential=znO4FsoZop7L4GII%2F20201215%2Ftest%2Fs3%2Faws4_request&X-Amz-Signature=57374d5f7f0d8fc3b169bd0a3d4a0229e5a867694261a15517363be96660d5b1&X-Oss-Referer=cdn",
+  "status": true
+}
+2020-12-15 11:42:05,138 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-15 11:42:05,170 - logs… - INFO - {
+  "error": "Bad Request",
+  "exception": "org.springframework.web.bind.UnsatisfiedServletRequestParameterException",
+  "message": "Parameter conditions \"Action=getOpenState\" OR \"Action=getUserStatus\" OR \"Action=getCustomdomain\" OR \"Action=accessList\" OR \"Action=headObject\" OR \"Action=getImageStyle\" OR \"Action=getObejectMetadata\" OR \"Action=getAllServicedEndPoint\" OR \"Action=getchildUserbyParentId\" OR \"Action=getTemporaryAccess\" OR \"Action=getEndpoint\" OR \"Action=getEndpointByRegionId\" OR \"Action=bucket_usage_all\" OR \"Action=month_statistics\" OR \"Action=getUsageByTime\" OR \"Action=getApiByTime\" OR \"Action=bucket_object_num\" OR \"Action=getFlowByTime\" OR \"Action=getInstance\" OR \"Action=getProductPaymentByUserAndRegion\" OR \"Action=getExpiredResourceList\" OR \"getOrderByInstanceId\" OR \"Action=getResourceList\" OR \"Action=getUsageDetails\" OR \"Action=getOpenResource\" OR \"Action=getOssConfig\" not met for actual request parameters: bucketName={liyutest77}, Action={getPresignedUrl}, requestType={GET}, directDownload={False}, regionId={tetett}, objectKey={test.png}, expire={2000}",
+  "path": "/oss",
+  "status": 400,
+  "timestamp": 1608003725167
+}
+2020-12-15 13:37:03,364 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-15 13:37:03,412 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "生成预签名成功",
+  "res": "https://liyutest77.s3.test.com/test.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20201215T053703Z&X-Amz-SignedHeaders=host&X-Amz-Expires=2000&X-Amz-Credential=znO4FsoZop7L4GII%2F20201215%2Ftest%2Fs3%2Faws4_request&X-Amz-Signature=070022e25d7cdfc01e6725fe3558f0c26270df75aaf545992a7771baaf353d9e&X-Oss-Referer=cdn",
+  "status": true
+}
+2020-12-15 13:37:17,933 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-15 13:37:17,987 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "资源包使用明细",
+  "res": {
+    "currentPage": 1,
+    "list": [],
+    "pageSize": 10,
+    "totalCount": 0,
+    "totalPages": 1
+  },
+  "status": true
+}
+2020-12-15 13:37:24,472 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-15 13:37:24,482 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "资源包使用明细",
+  "res": {
+    "currentPage": 1,
+    "list": [],
+    "pageSize": 10,
+    "totalCount": 0,
+    "totalPages": 1
+  },
+  "status": true
+}
+2020-12-15 13:37:41,928 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-15 13:37:42,013 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [
+    {
+      "chargeType": "prepaid",
+      "checkBalanceAmount": -1,
+      "formula": "x",
+      "freeTrials": false,
+      "id": 318,
+      "ownTimeFlag": false,
+      "paymentMethodCode": "YEAR_MONTH",
+      "paymentMethodName": "包年包月",
+      "productCode": "OSS",
+      "productName": "对象存储资源包",
+      "regionId": "tetett",
+      "regionName": "牧野2",
+      "sequenceNum": 2147483647,
+      "status": 2,
+      "tagFlag": 0,
+      "type": 0
+    },
+    {
+      "chargeType": "prepaid",
+      "checkBalanceAmount": -1,
+      "formula": "x",
+      "freeTrials": false,
+      "id": 335,
+      "ownTimeFlag": false,
+      "paymentMethodCode": "DAY_TRIAL",
+      "paymentMethodName": "免费试用",
+      "productCode": "OSS",
+      "productName": "对象存储资源包",
+      "regionId": "tetett",
+      "regionName": "牧野2",
+      "sequenceNum": 2147483647,
+      "status": 2,
+      "tagFlag": 1,
+      "type": 0
+    }
+  ],
+  "status": true
+}
+2020-12-15 13:37:47,875 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-15 13:37:47,970 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [
+    {
+      "chargeType": "prepaid",
+      "checkBalanceAmount": -1,
+      "formula": "x",
+      "freeTrials": false,
+      "id": 318,
+      "ownTimeFlag": false,
+      "paymentMethodCode": "YEAR_MONTH",
+      "paymentMethodName": "包年包月",
+      "productCode": "OSS",
+      "productName": "对象存储资源包",
+      "regionId": "tetett",
+      "regionName": "牧野2",
+      "sequenceNum": 2147483647,
+      "status": 2,
+      "tagFlag": 0,
+      "type": 0
+    },
+    {
+      "chargeType": "prepaid",
+      "checkBalanceAmount": -1,
+      "formula": "x",
+      "freeTrials": false,
+      "id": 335,
+      "ownTimeFlag": false,
+      "paymentMethodCode": "DAY_TRIAL",
+      "paymentMethodName": "免费试用",
+      "productCode": "OSS",
+      "productName": "对象存储资源包",
+      "regionId": "tetett",
+      "regionName": "牧野2",
+      "sequenceNum": 2147483647,
+      "status": 2,
+      "tagFlag": 1,
+      "type": 0
+    }
+  ],
+  "status": true
+}
+2020-12-15 13:37:54,253 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-15 13:37:54,285 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "OSS": [
+      {
+        "createTime": 1588733568000,
+        "display": "1个月",
+        "id": 87,
+        "productCode": "OSS",
+        "purchaseTime": 1,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733632000
+      },
+      {
+        "createTime": 1588733581000,
+        "display": "2个月",
+        "id": 88,
+        "productCode": "OSS",
+        "purchaseTime": 2,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733635000
+      },
+      {
+        "createTime": 1588733588000,
+        "display": "3个月",
+        "id": 89,
+        "productCode": "OSS",
+        "purchaseTime": 3,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733637000
+      },
+      {
+        "createTime": 1588733599000,
+        "display": "6个月",
+        "id": 90,
+        "productCode": "OSS",
+        "purchaseTime": 6,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733638000
+      },
+      {
+        "createTime": 1588733609000,
+        "display": "1年",
+        "id": 91,
+        "productCode": "OSS",
+        "purchaseTime": 12,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733640000
+      },
+      {
+        "createTime": 1588733618000,
+        "display": "2年",
+        "id": 92,
+        "productCode": "OSS",
+        "purchaseTime": 24,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733641000
+      },
+      {
+        "createTime": 1588733626000,
+        "display": "3年",
+        "id": 93,
+        "productCode": "OSS",
+        "purchaseTime": 36,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733643000
+      }
+    ],
+    "OSSAPI": [
+      {
+        "createTime": 1588746921000,
+        "display": "1个月",
+        "id": 94,
+        "productCode": "OSSAPI",
+        "purchaseTime": 1,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756115000
+      },
+      {
+        "createTime": 1588746932000,
+        "display": "2个月",
+        "id": 95,
+        "productCode": "OSSAPI",
+        "purchaseTime": 2,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756117000
+      },
+      {
+        "createTime": 1588746938000,
+        "display": "3个月",
+        "id": 96,
+        "productCode": "OSSAPI",
+        "purchaseTime": 3,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756118000
+      },
+      {
+        "createTime": 1588746946000,
+        "display": "6个月",
+        "id": 97,
+        "productCode": "OSSAPI",
+        "purchaseTime": 6,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756120000
+      },
+      {
+        "createTime": 1588746958000,
+        "display": "1年",
+        "id": 98,
+        "productCode": "OSSAPI",
+        "purchaseTime": 12,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756122000
+      },
+      {
+        "createTime": 1588746965000,
+        "display": "2年",
+        "id": 99,
+        "productCode": "OSSAPI",
+        "purchaseTime": 24,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756123000
+      },
+      {
+        "createTime": 1588746974000,
+        "display": "3年",
+        "id": 100,
+        "productCode": "OSSAPI",
+        "purchaseTime": 36,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756125000
+      }
+    ],
+    "OSSDATA": [
+      {
+        "createTime": 1588757411000,
+        "display": "1个月",
+        "id": 101,
+        "productCode": "OSSDATA",
+        "purchaseTime": 1,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757478000
+      },
+      {
+        "createTime": 1588757418000,
+        "display": "2个月",
+        "id": 102,
+        "productCode": "OSSDATA",
+        "purchaseTime": 2,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757480000
+      },
+      {
+        "createTime": 1588757437000,
+        "display": "3个月",
+        "id": 103,
+        "productCode": "OSSDATA",
+        "purchaseTime": 3,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757481000
+      },
+      {
+        "createTime": 1588757451000,
+        "display": "6个月",
+        "id": 104,
+        "productCode": "OSSDATA",
+        "purchaseTime": 6,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757483000
+      },
+      {
+        "createTime": 1588757460000,
+        "display": "1年",
+        "id": 105,
+        "productCode": "OSSDATA",
+        "purchaseTime": 12,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757484000
+      },
+      {
+        "createTime": 1588757467000,
+        "display": "2年",
+        "id": 106,
+        "productCode": "OSSDATA",
+        "purchaseTime": 24,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757486000
+      },
+      {
+        "createTime": 1588757475000,
+        "display": "3年",
+        "id": 107,
+        "productCode": "OSSDATA",
+        "purchaseTime": 36,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757488000
+      }
+    ]
+  },
+  "status": true
+}
+2020-12-15 13:38:09,363 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-15 13:38:09,392 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "OSS": "java.lang.Exception: {\"success\":true,\"code\":\"0\",\"message\":\"Successful!\",\"data\":null}",
+    "OSSAPI": "java.lang.Exception: {\"success\":true,\"code\":\"0\",\"message\":\"Successful!\",\"data\":null}",
+    "OSSDATA": "java.lang.Exception: {\"success\":true,\"code\":\"0\",\"message\":\"Successful!\",\"data\":null}"
+  },
+  "status": true
+}
+2020-12-15 15:44:03,585 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-15 15:44:03,630 - logs… - INFO - {
+  "error": "Bad Request",
+  "exception": "org.springframework.web.bind.UnsatisfiedServletRequestParameterException",
+  "message": "Parameter conditions \"Action=getOpenState\" OR \"Action=getUserStatus\" OR \"Action=getCustomdomain\" OR \"Action=accessList\" OR \"Action=headObject\" OR \"Action=getImageStyle\" OR \"Action=getObejectMetadata\" OR \"Action=getAllServicedEndPoint\" OR \"Action=getchildUserbyParentId\" OR \"Action=getTemporaryAccess\" OR \"Action=getEndpoint\" OR \"Action=getEndpointByRegionId\" OR \"Action=bucket_usage_all\" OR \"Action=month_statistics\" OR \"Action=getUsageByTime\" OR \"Action=getApiByTime\" OR \"Action=bucket_object_num\" OR \"Action=getFlowByTime\" OR \"Action=getInstance\" OR \"Action=getProductPaymentByUserAndRegion\" OR \"Action=getExpiredResourceList\" OR \"getOrderByInstanceId\" OR \"Action=getResourceList\" OR \"Action=getUsageDetails\" OR \"Action=getOpenResource\" OR \"Action=getOssConfig\" not met for actual request parameters: Action={iamAndValidatedUser}, UserAccessKeyId={znO4FsoZop7L4GII}",
+  "path": "/oss",
+  "status": 400,
+  "timestamp": 1608018243622
+}
+2020-12-15 15:44:45,963 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-15 15:44:46,472 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "accessKey": "znO4FsoZop7L4GII",
+    "accessSecret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+    "createAt": "1585303396000",
+    "enabled": 1,
+    "expiredAt": null,
+    "projectId": "f71633ba-8010-4330-b572-46852d50d939",
+    "projectName": "f71633ba80104330b57246852d50d939",
+    "signature": null,
+    "temp": null,
+    "type": "OSS",
+    "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+  },
+  "status": true
+}
+2020-12-15 15:45:04,461 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-15 15:45:04,541 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "accessKey": "znO4FsoZop7L4GII",
+    "accessSecret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+    "createAt": "1585303396000",
+    "enabled": 1,
+    "expiredAt": null,
+    "projectId": "f71633ba-8010-4330-b572-46852d50d939",
+    "projectName": "f71633ba80104330b57246852d50d939",
+    "signature": null,
+    "temp": null,
+    "type": "OSS",
+    "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+  },
+  "status": true
+}
+2020-12-15 15:45:14,057 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-15 15:45:14,074 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "accessKey": "znO4FsoZop7L4GII",
+    "accessSecret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+    "createAt": "1585303396000",
+    "enabled": 1,
+    "expiredAt": null,
+    "projectId": "f71633ba-8010-4330-b572-46852d50d939",
+    "projectName": "f71633ba80104330b57246852d50d939",
+    "signature": null,
+    "temp": null,
+    "type": "OSS",
+    "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+  },
+  "status": true
+}
+2020-12-15 15:50:28,683 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-15 15:50:28,771 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "accessKey": "znO4FsoZop7L4GII",
+    "accessSecret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+    "createAt": "1585303396000",
+    "enabled": 1,
+    "expiredAt": null,
+    "projectId": "f71633ba-8010-4330-b572-46852d50d939",
+    "projectName": "f71633ba80104330b57246852d50d939",
+    "signature": null,
+    "temp": null,
+    "type": "OSS",
+    "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+  },
+  "status": true
+}
+2020-12-15 15:54:48,191 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-15 15:54:48,231 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "accessKey": "znO4FsoZop7L4GII",
+    "accessSecret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+    "createAt": "1585303396000",
+    "enabled": 1,
+    "expiredAt": null,
+    "projectId": "f71633ba-8010-4330-b572-46852d50d939",
+    "projectName": "f71633ba80104330b57246852d50d939",
+    "signature": null,
+    "temp": null,
+    "type": "OSS",
+    "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+  },
+  "status": true
+}
+2020-12-16 09:23:26,193 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-16 09:23:31,882 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "access_info": {
+      "access_key": "znO4FsoZop7L4GII",
+      "access_secret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+      "create_at": null,
+      "enabled": 1,
+      "expired_at": null,
+      "project_id": "f71633ba-8010-4330-b572-46852d50d939",
+      "project_name": "f71633ba80104330b57246852d50d939",
+      "type": "OSS",
+      "user_id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+    },
+    "child_user": null,
+    "policy_list": [],
+    "root_user": {
+      "default_project_uuid": "f71633ba-8010-4330-b572-46852d50d939",
+      "enabled": 1,
+      "id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+      "name": "liyu77",
+      "type": "PUBLIC"
+    }
+  },
+  "status": true
+}
+2020-12-16 09:23:49,831 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-16 09:23:49,858 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "access_info": {
+      "access_key": "znO4FsoZop7L4GII",
+      "access_secret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+      "create_at": null,
+      "enabled": 1,
+      "expired_at": null,
+      "project_id": "f71633ba-8010-4330-b572-46852d50d939",
+      "project_name": "f71633ba80104330b57246852d50d939",
+      "type": "OSS",
+      "user_id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+    },
+    "child_user": null,
+    "policy_list": [],
+    "root_user": {
+      "default_project_uuid": "f71633ba-8010-4330-b572-46852d50d939",
+      "enabled": 1,
+      "id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+      "name": "liyu77",
+      "type": "PUBLIC"
+    }
+  },
+  "status": true
+}
+2020-12-16 09:24:27,215 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-16 09:24:27,392 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "access_info": {
+      "access_key": "znO4FsoZop7L4GII",
+      "access_secret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+      "create_at": null,
+      "enabled": 1,
+      "expired_at": null,
+      "project_id": "f71633ba-8010-4330-b572-46852d50d939",
+      "project_name": "f71633ba80104330b57246852d50d939",
+      "type": "OSS",
+      "user_id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+    },
+    "child_user": null,
+    "policy_list": [],
+    "root_user": {
+      "default_project_uuid": "f71633ba-8010-4330-b572-46852d50d939",
+      "enabled": 1,
+      "id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+      "name": "liyu77",
+      "type": "PUBLIC"
+    }
+  },
+  "status": true
+}
+2020-12-16 09:27:09,120 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-16 09:27:09,490 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "access_info": {
+      "access_key": "znO4FsoZop7L4GII",
+      "access_secret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+      "create_at": null,
+      "enabled": 1,
+      "expired_at": null,
+      "project_id": "f71633ba-8010-4330-b572-46852d50d939",
+      "project_name": "f71633ba80104330b57246852d50d939",
+      "type": "OSS",
+      "user_id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+    },
+    "child_user": null,
+    "policy_list": [],
+    "root_user": {
+      "default_project_uuid": "f71633ba-8010-4330-b572-46852d50d939",
+      "enabled": 1,
+      "id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+      "name": "liyu77",
+      "type": "PUBLIC"
+    }
+  },
+  "status": true
+}
+2020-12-16 09:27:41,882 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-16 09:27:41,902 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "access_info": {
+      "access_key": "znO4FsoZop7L4GII",
+      "access_secret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+      "create_at": null,
+      "enabled": 1,
+      "expired_at": null,
+      "project_id": "f71633ba-8010-4330-b572-46852d50d939",
+      "project_name": "f71633ba80104330b57246852d50d939",
+      "type": "OSS",
+      "user_id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+    },
+    "child_user": null,
+    "policy_list": [],
+    "root_user": {
+      "default_project_uuid": "f71633ba-8010-4330-b572-46852d50d939",
+      "enabled": 1,
+      "id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+      "name": "liyu77",
+      "type": "PUBLIC"
+    }
+  },
+  "status": true
+}
+2020-12-16 09:27:48,733 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-16 09:27:48,755 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "access_info": {
+      "access_key": "znO4FsoZop7L4GII",
+      "access_secret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+      "create_at": null,
+      "enabled": 1,
+      "expired_at": null,
+      "project_id": "f71633ba-8010-4330-b572-46852d50d939",
+      "project_name": "f71633ba80104330b57246852d50d939",
+      "type": "OSS",
+      "user_id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+    },
+    "child_user": null,
+    "policy_list": [],
+    "root_user": {
+      "default_project_uuid": "f71633ba-8010-4330-b572-46852d50d939",
+      "enabled": 1,
+      "id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+      "name": "liyu77",
+      "type": "PUBLIC"
+    }
+  },
+  "status": true
+}
+2020-12-16 09:40:51,119 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-16 09:40:52,025 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "生成预签名成功",
+  "res": "https://liyutest77.s3.test.com/test.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20201216T014051Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1999&X-Amz-Credential=znO4FsoZop7L4GII%2F20201216%2Ftest%2Fs3%2Faws4_request&X-Amz-Signature=583f26dd7db9dda0bd3d8d35b74e92aa2676a151777e4720ae9eb7ac8986610d&X-Oss-Referer=cdn",
+  "status": true
+}
+2020-12-16 09:46:59,043 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-16 09:46:59,094 - logs… - INFO - {
+  "error": "Bad Request",
+  "exception": "org.springframework.web.bind.UnsatisfiedServletRequestParameterException",
+  "message": "Parameter conditions \"Action=getOpenState\" OR \"Action=getUserStatus\" OR \"Action=getCustomdomain\" OR \"Action=headObject\" OR \"Action=accessList\" OR \"Action=getImageStyle\" OR \"Action=getAllServicedEndPoint\" OR \"Action=getObejectMetadata\" OR \"Action=iamAndValidatedChildUser\" OR \"Action=getchildUserbyParentId\" OR \"Action=getTemporaryAccess\" OR \"Action=iamAndValidatedUser\" OR \"Action=getEndpoint\" OR \"Action=getEndpointByRegionId\" OR \"Action=bucket_usage_all\" OR \"Action=getUsageByTime\" OR \"Action=bucket_object_num\" OR \"Action=month_statistics\" OR \"Action=getApiByTime\" OR \"Action=getFlowByTime\" OR \"Action=getInstance\" OR \"Action=getUsageDetails\" OR \"Action=getResourceList\" OR \"getOrderByInstanceId\" OR \"Action=getProductPaymentByUserAndRegion\" OR \"Action=getExpiredResourceList\" OR \"Action=getOssConfig\" OR \"Action=getOpenResource\" OR \"Action=covertToPresignedUrl\" not met for actual request parameters: regionId={tetett}, AccessKeyId={znO4FsoZop7L4GII}, Signature={ly+0Ae4oI9dmD9KMP7A1Ime5Rvk=}",
+  "path": "/oss",
+  "status": 400,
+  "timestamp": 1608083219090
+}
+2020-12-16 09:47:38,387 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-16 09:47:38,753 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "true",
+  "res": [
+    {
+      "endPoint": "s3.test.com",
+      "endPointInternal": "s3-internal.test.com",
+      "promEndPoint": "s3.test.com:9090",
+      "regionId": "tetett",
+      "regionName": "牧野2"
+    }
+  ],
+  "status": true
+}
+2020-12-16 09:47:58,295 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-16 09:47:58,339 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "true",
+  "res": [
+    {
+      "endPoint": "s3.test.com",
+      "endPointInternal": "s3-internal.test.com",
+      "promEndPoint": "s3.test.com:9090",
+      "regionId": "tetett",
+      "regionName": "牧野2"
+    }
+  ],
+  "status": true
+}
+2020-12-16 15:26:47,195 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-16 15:26:47,452 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "图片样式获取成功",
+  "res": {
+    "currentPage": 1,
+    "list": [
+      {
+        "breviaryHeight": null,
+        "breviaryName": null,
+        "breviaryWidth": null,
+        "bucketDomain": null,
+        "bucketName": "liyutest77",
+        "editType": null,
+        "fontColor": null,
+        "fontContent": null,
+        "fontSize": null,
+        "fontType": null,
+        "imageSize": null,
+        "limitMagnify": null,
+        "pictureRotating": null,
+        "positionX": null,
+        "positionY": null,
+        "styleCode": "image/rotate,7",
+        "styleName": "liyutest1126",
+        "waterDiaphaneity": null,
+        "waterMarkName": null,
+        "waterPicturePath": null,
+        "waterPosition": null
+      },
+      {
+        "breviaryHeight": null,
+        "breviaryName": null,
+        "breviaryWidth": null,
+        "bucketDomain": null,
+        "bucketName": "liyutest77",
+        "editType": null,
+        "fontColor": null,
+        "fontContent": null,
+        "fontSize": null,
+        "fontType": null,
+        "imageSize": null,
+        "limitMagnify": null,
+        "pictureRotating": null,
+        "positionX": null,
+        "positionY": null,
+        "styleCode": "image/rotate,7",
+        "styleName": "liyutest11261559",
+        "waterDiaphaneity": null,
+        "waterMarkName": null,
+        "waterPicturePath": null,
+        "waterPosition": null
+      }
+    ],
+    "pageSize": 10,
+    "totalCount": 2,
+    "totalPages": 1
+  },
+  "status": true
+}
+2020-12-16 15:26:56,860 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-16 15:26:56,888 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "图片样式获取成功",
+  "res": {
+    "currentPage": 1,
+    "list": [
+      {
+        "breviaryHeight": null,
+        "breviaryName": null,
+        "breviaryWidth": null,
+        "bucketDomain": null,
+        "bucketName": "liyutest77",
+        "editType": null,
+        "fontColor": null,
+        "fontContent": null,
+        "fontSize": null,
+        "fontType": null,
+        "imageSize": null,
+        "limitMagnify": null,
+        "pictureRotating": null,
+        "positionX": null,
+        "positionY": null,
+        "styleCode": "image/rotate,7",
+        "styleName": "liyutest1126",
+        "waterDiaphaneity": null,
+        "waterMarkName": null,
+        "waterPicturePath": null,
+        "waterPosition": null
+      },
+      {
+        "breviaryHeight": null,
+        "breviaryName": null,
+        "breviaryWidth": null,
+        "bucketDomain": null,
+        "bucketName": "liyutest77",
+        "editType": null,
+        "fontColor": null,
+        "fontContent": null,
+        "fontSize": null,
+        "fontType": null,
+        "imageSize": null,
+        "limitMagnify": null,
+        "pictureRotating": null,
+        "positionX": null,
+        "positionY": null,
+        "styleCode": "image/rotate,7",
+        "styleName": "liyutest11261559",
+        "waterDiaphaneity": null,
+        "waterMarkName": null,
+        "waterPicturePath": null,
+        "waterPosition": null
+      }
+    ],
+    "pageSize": 10,
+    "totalCount": 2,
+    "totalPages": 1
+  },
+  "status": true
+}
+2020-12-17 09:59:47,513 - logs… - INFO - resultPathE:\workspace\uco-oss-interfaca-test\result\report.html
+2020-12-17 09:59:47,529 - logs… - INFO - caseListFileE:\workspace\uco-oss-interfaca-test\caselist.txt
+2020-12-17 09:59:47,529 - logs… - INFO - caseList[]
+2020-12-17 09:59:47,953 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 09:59:47,976 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 09:59:48,008 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 09:59:48,026 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 09:59:48,160 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 09:59:48,177 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 09:59:48,189 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 09:59:48,723 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [
+    {
+      "id": 1,
+      "region": "tetett",
+      "resource": "OSSDATA.TRAFFIC.120G.FREE|外网下行流量.120G.试用,OSS.STANDARD.150G.FREE|标准资源包.150G.试用,OSSAPI.API.120tenK.FREE|API调用包.120万次.试用",
+      "time": 1,
+      "type": "YEAR_MONTH"
+    },
+    {
+      "id": 2,
+      "region": "cn-tianjin-cto",
+      "resource": "OSSDATA.TRAFFIC.200G.FREE|外网下行流量.200G.试用,OSS.STANDARD.200G.FREE|标准资源包.200G.试用,OSSAPI.API.200tenK.FREE|API调用包.200万次.试用",
+      "time": 15,
+      "type": "DAY_TRIAL"
+    }
+  ],
+  "status": true
+}
+2020-12-17 09:59:48,740 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": "100",
+  "status": true
+}
+2020-12-17 09:59:48,768 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "失效资源包列表",
+  "res": {
+    "currentPage": 1,
+    "list": [
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1602864005000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 683,
+        "instanceId": "oss159946b9d6f04f52a10cb44996a08ddf",
+        "isMoove": 0,
+        "orderId": "1306148091199549519",
+        "productCategory": "OSS",
+        "quota": 536870912000,
+        "regionId": "tetett",
+        "startTime": 1600236740000,
+        "status": 0,
+        "usage": 3821270594,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1602864005000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 701,
+        "instanceId": "oss0de4a78fad364c2dab43d8c1db76d727",
+        "isMoove": 0,
+        "orderId": "1306172612249972765",
+        "productCategory": "OSS",
+        "quota": 107374182400,
+        "regionId": "tetett",
+        "startTime": 1600250782000,
+        "status": 0,
+        "usage": 0,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1607616013000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 774,
+        "instanceId": "oss7bf6d57a4a4d4e12abd12ff4faad3ce6",
+        "isMoove": 0,
+        "orderId": "1323153290803892267",
+        "productCategory": "OSS",
+        "quota": 536870912000,
+        "regionId": "tetett",
+        "startTime": 1602309174000,
+        "status": 0,
+        "usage": 1106990642,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1606147208000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 784,
+        "instanceId": "oss7666e925b9a14979b06818373f5e2081",
+        "isMoove": 0,
+        "orderId": "1323153351457722403",
+        "productCategory": "OSS",
+        "quota": 107374182400,
+        "regionId": "tetett",
+        "startTime": 1603440227000,
+        "status": 0,
+        "usage": 0,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1606924813000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 806,
+        "instanceId": "oss6f9e84c0dcb542bd818c12895a69d7e6",
+        "isMoove": 0,
+        "orderId": "1323137153865175063",
+        "productCategory": "OSS",
+        "quota": 42949672960,
+        "regionId": "tetett",
+        "startTime": 1604295455000,
+        "status": 0,
+        "usage": 0,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1606924813000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 807,
+        "instanceId": "ossd864c6f620034c9f826fc26d241d362f",
+        "isMoove": 0,
+        "orderId": "1323143350198558729",
+        "productCategory": "OSS",
+        "quota": 42949672960,
+        "regionId": "tetett",
+        "startTime": 1604296932000,
+        "status": 0,
+        "usage": 0,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1606924813000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 808,
+        "instanceId": "ossea9587869edc4ca3aef81a267e272a36",
+        "isMoove": 0,
+        "orderId": "1323143465948766307",
+        "productCategory": "OSS",
+        "quota": 42949672960,
+        "regionId": "tetett",
+        "startTime": 1604296960000,
+        "status": 0,
+        "usage": 0,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1606924813000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 809,
+        "instanceId": "oss0e2f16b9b8ac4c2ea5ca3798fc2aa83a",
+        "isMoove": 0,
+        "orderId": "1323143608504766482",
+        "productCategory": "OSS",
+        "quota": 42949672960,
+        "regionId": "tetett",
+        "startTime": 1604296994000,
+        "status": 0,
+        "usage": 0,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1606924813000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 820,
+        "instanceId": "ossd10258418f1548f0b5b2abd34f47f7ef",
+        "isMoove": 0,
+        "orderId": "1323154667542237276",
+        "productCategory": "OSS",
+        "quota": 42949672960,
+        "regionId": "tetett",
+        "startTime": 1604299631000,
+        "status": 0,
+        "usage": 0,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1606924813000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 821,
+        "instanceId": "ossc7ba6cb814184beeb27f2db079951984",
+        "isMoove": 0,
+        "orderId": "1323154732285509716",
+        "productCategory": "OSS",
+        "quota": 42949672960,
+        "regionId": "tetett",
+        "startTime": 1604299646000,
+        "status": 0,
+        "usage": 0,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      }
+    ],
+    "pageSize": 10,
+    "totalCount": 21,
+    "totalPages": 3
+  },
+  "status": true
+}
+2020-12-17 09:59:48,808 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "实例信息",
+  "res": [
+    {
+      "az": null,
+      "azId": null,
+      "chargeType": 1,
+      "createTime": 1596959924000,
+      "dueTime": null,
+      "formalPayTime": 1596959924000,
+      "id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+      "instanceCloseTime": null,
+      "instanceComponentDtoList": [
+        {
+          "componentCode": "API",
+          "componentId": null,
+          "componentParentId": null,
+          "componentProperty": "{\"specificationCode\":\"OSS_SERVICE.API.1tenK\"}",
+          "createTime": 1596959924000,
+          "id": 47537,
+          "instanceId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+          "specificationCode": "OSS_SERVICE.API.1tenK",
+          "updateTime": 1596959924000,
+          "updateType": 0
+        },
+        {
+          "componentCode": "DATARETRIEVE",
+          "componentId": null,
+          "componentParentId": null,
+          "componentProperty": "{\"specificationCode\":\"OSS_SERVICE.DATARETRIEVE.1G\"}",
+          "createTime": 1596959924000,
+          "id": 47544,
+          "instanceId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+          "specificationCode": "OSS_SERVICE.DATARETRIEVE.1G",
+          "updateTime": 1596959924000,
+          "updateType": 0
+        },
+        {
+          "componentCode": "GLACIER",
+          "componentId": null,
+          "componentParentId": null,
+          "componentProperty": "{\"specificationCode\":\"OSS_SERVICE.GLACIER.1G\"}",
+          "createTime": 1596959924000,
+          "id": 47540,
+          "instanceId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+          "specificationCode": "OSS_SERVICE.GLACIER.1G",
+          "updateTime": 1596959924000,
+          "updateType": 0
+        },
+        {
+          "componentCode": "RESTORE",
+          "componentId": null,
+          "componentParentId": null,
+          "componentProperty": "{\"specificationCode\":\"OSS_SERVICE.RESTORE.1G\"}",
+          "createTime": 1596959924000,
+          "id": 47543,
+          "instanceId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+          "specificationCode": "OSS_SERVICE.RESTORE.1G",
+          "updateTime": 1596959924000,
+          "updateType": 0
+        },
+        {
+          "componentCode": "STANDARD",
+          "componentId": null,
+          "componentParentId": null,
+          "componentProperty": "{\"specificationCode\":\"OSS_SERVICE.STANDARD.1G\"}",
+          "createTime": 1596959924000,
+          "id": 47538,
+          "instanceId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+          "specificationCode": "OSS_SERVICE.STANDARD.1G",
+          "updateTime": 1596959924000,
+          "updateType": 0
+        },
+        {
+          "componentCode": "STANDARD_IA",
+          "componentId": null,
+          "componentParentId": null,
+          "componentProperty": "{\"specificationCode\":\"OSS_SERVICE.STANDARD_IA.1G\"}",
+          "createTime": 1596959924000,
+          "id": 47539,
+          "instanceId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+          "specificationCode": "OSS_SERVICE.STANDARD_IA.1G",
+          "updateTime": 1596959924000,
+          "updateType": 0
+        },
+        {
+          "componentCode": "TRAFFIC_BUSY",
+          "componentId": null,
+          "componentParentId": null,
+          "componentProperty": "{\"specificationCode\":\"OSS_SERVICE.TRAFFIC_BUSY.1G\"}",
+          "createTime": 1596959924000,
+          "id": 47541,
+          "instanceId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+          "specificationCode": "OSS_SERVICE.TRAFFIC_BUSY.1G",
+          "updateTime": 1596959924000,
+          "updateType": 0
+        },
+        {
+          "componentCode": "TRAFFIC_LEISURE",
+          "componentId": null,
+          "componentParentId": null,
+          "componentProperty": "{\"specificationCode\":\"OSS_SERVICE.TRAFFIC_LEISURE.1G\"}",
+          "createTime": 1596959924000,
+          "id": 47542,
+          "instanceId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+          "specificationCode": "OSS_SERVICE.TRAFFIC_LEISURE.1G",
+          "updateTime": 1596959924000,
+          "updateType": 0
+        }
+      ],
+      "instanceDescription": null,
+      "instanceEndTime": null,
+      "instanceLabel": 1,
+      "instanceName": "对象存储后付费服务",
+      "instanceParentId": null,
+      "instanceReleaseTime": null,
+      "instanceRestartTime": null,
+      "instanceStartTime": 1596959924000,
+      "isMspProduct": null,
+      "isOld": 0,
+      "isPay": 1,
+      "isPayClose": 0,
+      "operationStatus": 2,
+      "orderId": 1292369704320565263,
+      "payType": "CHARGING_HOURS",
+      "productCode": "OSS_SERVICE",
+      "productGroupId": null,
+      "regionId": "*",
+      "regionName": null,
+      "renewType": null,
+      "rentCount": null,
+      "rentUnit": null,
+      "trialDescription": null,
+      "turnFormalTime": null,
+      "updateTime": 1596959923000,
+      "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+      "userName": "liyu77",
+      "userParentId": null
+    }
+  ],
+  "status": true
+}
+2020-12-17 09:59:48,871 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "OSS": "java.lang.Exception: {\"success\":true,\"code\":\"0\",\"message\":\"Successful!\",\"data\":null}",
+    "OSSAPI": "java.lang.Exception: {\"success\":true,\"code\":\"0\",\"message\":\"Successful!\",\"data\":null}",
+    "OSSDATA": "java.lang.Exception: {\"success\":true,\"code\":\"0\",\"message\":\"Successful!\",\"data\":null}"
+  },
+  "status": true
+}
+2020-12-17 09:59:48,903 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [
+    {
+      "chargeType": "prepaid",
+      "checkBalanceAmount": -1,
+      "formula": "x",
+      "freeTrials": false,
+      "id": 318,
+      "ownTimeFlag": false,
+      "paymentMethodCode": "YEAR_MONTH",
+      "paymentMethodName": "包年包月",
+      "productCode": "OSS",
+      "productName": "对象存储资源包",
+      "regionId": "tetett",
+      "regionName": "牧野2",
+      "sequenceNum": 2147483647,
+      "status": 2,
+      "tagFlag": 0,
+      "type": 0
+    },
+    {
+      "chargeType": "prepaid",
+      "checkBalanceAmount": -1,
+      "formula": "x",
+      "freeTrials": false,
+      "id": 335,
+      "ownTimeFlag": false,
+      "paymentMethodCode": "DAY_TRIAL",
+      "paymentMethodName": "免费试用",
+      "productCode": "OSS",
+      "productName": "对象存储资源包",
+      "regionId": "tetett",
+      "regionName": "牧野2",
+      "sequenceNum": 2147483647,
+      "status": 2,
+      "tagFlag": 1,
+      "type": 0
+    }
+  ],
+  "status": true
+}
+2020-12-17 09:59:48,921 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "OSS": [
+      {
+        "createTime": 1588733568000,
+        "display": "1个月",
+        "id": 87,
+        "productCode": "OSS",
+        "purchaseTime": 1,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733632000
+      },
+      {
+        "createTime": 1588733581000,
+        "display": "2个月",
+        "id": 88,
+        "productCode": "OSS",
+        "purchaseTime": 2,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733635000
+      },
+      {
+        "createTime": 1588733588000,
+        "display": "3个月",
+        "id": 89,
+        "productCode": "OSS",
+        "purchaseTime": 3,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733637000
+      },
+      {
+        "createTime": 1588733599000,
+        "display": "6个月",
+        "id": 90,
+        "productCode": "OSS",
+        "purchaseTime": 6,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733638000
+      },
+      {
+        "createTime": 1588733609000,
+        "display": "1年",
+        "id": 91,
+        "productCode": "OSS",
+        "purchaseTime": 12,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733640000
+      },
+      {
+        "createTime": 1588733618000,
+        "display": "2年",
+        "id": 92,
+        "productCode": "OSS",
+        "purchaseTime": 24,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733641000
+      },
+      {
+        "createTime": 1588733626000,
+        "display": "3年",
+        "id": 93,
+        "productCode": "OSS",
+        "purchaseTime": 36,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733643000
+      }
+    ],
+    "OSSAPI": [
+      {
+        "createTime": 1588746921000,
+        "display": "1个月",
+        "id": 94,
+        "productCode": "OSSAPI",
+        "purchaseTime": 1,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756115000
+      },
+      {
+        "createTime": 1588746932000,
+        "display": "2个月",
+        "id": 95,
+        "productCode": "OSSAPI",
+        "purchaseTime": 2,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756117000
+      },
+      {
+        "createTime": 1588746938000,
+        "display": "3个月",
+        "id": 96,
+        "productCode": "OSSAPI",
+        "purchaseTime": 3,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756118000
+      },
+      {
+        "createTime": 1588746946000,
+        "display": "6个月",
+        "id": 97,
+        "productCode": "OSSAPI",
+        "purchaseTime": 6,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756120000
+      },
+      {
+        "createTime": 1588746958000,
+        "display": "1年",
+        "id": 98,
+        "productCode": "OSSAPI",
+        "purchaseTime": 12,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756122000
+      },
+      {
+        "createTime": 1588746965000,
+        "display": "2年",
+        "id": 99,
+        "productCode": "OSSAPI",
+        "purchaseTime": 24,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756123000
+      },
+      {
+        "createTime": 1588746974000,
+        "display": "3年",
+        "id": 100,
+        "productCode": "OSSAPI",
+        "purchaseTime": 36,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756125000
+      }
+    ],
+    "OSSDATA": [
+      {
+        "createTime": 1588757411000,
+        "display": "1个月",
+        "id": 101,
+        "productCode": "OSSDATA",
+        "purchaseTime": 1,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757478000
+      },
+      {
+        "createTime": 1588757418000,
+        "display": "2个月",
+        "id": 102,
+        "productCode": "OSSDATA",
+        "purchaseTime": 2,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757480000
+      },
+      {
+        "createTime": 1588757437000,
+        "display": "3个月",
+        "id": 103,
+        "productCode": "OSSDATA",
+        "purchaseTime": 3,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757481000
+      },
+      {
+        "createTime": 1588757451000,
+        "display": "6个月",
+        "id": 104,
+        "productCode": "OSSDATA",
+        "purchaseTime": 6,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757483000
+      },
+      {
+        "createTime": 1588757460000,
+        "display": "1年",
+        "id": 105,
+        "productCode": "OSSDATA",
+        "purchaseTime": 12,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757484000
+      },
+      {
+        "createTime": 1588757467000,
+        "display": "2年",
+        "id": 106,
+        "productCode": "OSSDATA",
+        "purchaseTime": 24,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757486000
+      },
+      {
+        "createTime": 1588757475000,
+        "display": "3年",
+        "id": 107,
+        "productCode": "OSSDATA",
+        "purchaseTime": 36,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757488000
+      }
+    ]
+  },
+  "status": true
+}
+2020-12-17 09:59:48,929 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "资源包列表",
+  "res": {
+    "currentPage": 1,
+    "list": [],
+    "pageSize": 10,
+    "totalCount": 0,
+    "totalPages": 1
+  },
+  "status": true
+}
+2020-12-17 09:59:48,938 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "资源包使用明细",
+  "res": {
+    "currentPage": 1,
+    "list": [],
+    "pageSize": 10,
+    "totalCount": 0,
+    "totalPages": 1
+  },
+  "status": true
+}
+2020-12-17 09:59:49,078 - logs… - INFO - {
+  "auth": true,
+  "code": 0,
+  "msg": "对象存储后付费使用信息",
+  "res": {
+    "endTime": null,
+    "instanceList": null,
+    "startTime": null
+  },
+  "status": true
+}
+2020-12-17 09:59:49,156 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "access_info": {
+      "access_key": "znO4FsoZop7L4GII",
+      "access_secret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+      "create_at": null,
+      "enabled": 1,
+      "expired_at": null,
+      "project_id": "f71633ba-8010-4330-b572-46852d50d939",
+      "project_name": "f71633ba80104330b57246852d50d939",
+      "type": "OSS",
+      "user_id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+    },
+    "child_user": null,
+    "policy_list": [],
+    "root_user": {
+      "default_project_uuid": "f71633ba-8010-4330-b572-46852d50d939",
+      "enabled": 1,
+      "id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+      "name": "liyu77",
+      "type": "PUBLIC"
+    }
+  },
+  "status": true
+}
+2020-12-17 09:59:49,175 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "accessKey": "znO4FsoZop7L4GII",
+    "accessSecret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+    "createAt": "1585303396000",
+    "enabled": 1,
+    "expiredAt": null,
+    "projectId": "f71633ba-8010-4330-b572-46852d50d939",
+    "projectName": "f71633ba80104330b57246852d50d939",
+    "signature": null,
+    "temp": null,
+    "type": "OSS",
+    "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+  },
+  "status": true
+}
+2020-12-17 09:59:49,186 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "content": [],
+    "page": 0,
+    "size": 50,
+    "total_count": 0
+  },
+  "status": true
+}
+2020-12-17 09:59:49,202 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "access_info": {
+      "access_key": "znO4FsoZop7L4GII",
+      "access_secret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+      "create_at": null,
+      "enabled": 1,
+      "expired_at": null,
+      "project_id": "f71633ba-8010-4330-b572-46852d50d939",
+      "project_name": "f71633ba80104330b57246852d50d939",
+      "type": "OSS",
+      "user_id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+    },
+    "child_user": null,
+    "policy_list": [],
+    "root_user": {
+      "default_project_uuid": "f71633ba-8010-4330-b572-46852d50d939",
+      "enabled": 1,
+      "id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+      "name": "liyu77",
+      "type": "PUBLIC"
+    }
+  },
+  "status": true
+}
+2020-12-17 09:59:49,211 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "accessKey": "znO4FsoZop7L4GII",
+    "accessSecret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+    "createAt": "1585303396000",
+    "enabled": 1,
+    "expiredAt": null,
+    "projectId": "f71633ba-8010-4330-b572-46852d50d939",
+    "projectName": "f71633ba80104330b57246852d50d939",
+    "signature": null,
+    "temp": null,
+    "type": "OSS",
+    "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+  },
+  "status": true
+}
+2020-12-17 09:59:49,238 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "GET": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0
+    },
+    "GETunit": "次",
+    "PUT": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0
+    },
+    "PUTunit": "次"
+  },
+  "status": true
+}
+2020-12-17 09:59:49,249 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "data": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0
+    },
+    "unit": "B"
+  },
+  "status": true
+}
+2020-12-17 09:59:49,274 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "GLACIER": {
+      "2020-12-17 00:00:00": 308.0,
+      "2020-12-17 01:00:00": 308.0,
+      "2020-12-17 02:00:00": 308.0,
+      "2020-12-17 03:00:00": 308.0,
+      "2020-12-17 04:00:00": 308.0,
+      "2020-12-17 05:00:00": 308.0,
+      "2020-12-17 06:00:00": 308.0,
+      "2020-12-17 07:00:00": 308.0,
+      "2020-12-17 08:00:00": 308.0,
+      "2020-12-17 09:00:00": 308.0
+    },
+    "GLACIERunit": "K",
+    "STANDARD": {
+      "2020-12-17 00:00:00": 885.9,
+      "2020-12-17 01:00:00": 885.9,
+      "2020-12-17 02:00:00": 885.9,
+      "2020-12-17 03:00:00": 885.9,
+      "2020-12-17 04:00:00": 885.9,
+      "2020-12-17 05:00:00": 885.9,
+      "2020-12-17 06:00:00": 885.9,
+      "2020-12-17 07:00:00": 885.9,
+      "2020-12-17 08:00:00": 885.9,
+      "2020-12-17 09:00:00": 885.9
+    },
+    "STANDARD_IA": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0
+    },
+    "STANDARD_IAunit": "B",
+    "STANDARDunit": "M"
+  },
+  "status": true
+}
+2020-12-17 09:59:49,286 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "api_get": "0次",
+    "api_put": "0次",
+    "flow_get": "0B"
+  },
+  "status": true
+}
+2020-12-17 09:59:49,663 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "bucket_num": "8"
+  },
+  "status": true
+}
+2020-12-17 09:59:49,672 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "GLACIER": "308.00K",
+    "STANDARD": "885.90M",
+    "STANDARD_IA": "0B"
+  },
+  "status": true
+}
+2020-12-17 09:59:49,680 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "GLACIER": "74.68M",
+    "STANDARD": "1.03G",
+    "STANDARD_IA": "1.31M"
+  },
+  "status": true
+}
+2020-12-17 09:59:49,701 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "GET": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0
+    },
+    "GETunit": "次",
+    "PUT": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0
+    },
+    "PUTunit": "次"
+  },
+  "status": true
+}
+2020-12-17 09:59:49,728 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "true",
+  "res": [
+    {
+      "endPoint": "bj.unicloud.com",
+      "endPointInternal": "bj-internal.unicloud.com",
+      "promEndPoint": "bj.unicloud.com:9090",
+      "regionId": "d8812c35-b90a-4c06-86c0-dbas4630",
+      "regionName": "华北1-天津"
+    },
+    {
+      "endPoint": "s3.test.com",
+      "endPointInternal": "s3-internal.test.com",
+      "promEndPoint": "s3.test.com:9090",
+      "regionId": "tetett",
+      "regionName": "牧野2"
+    }
+  ],
+  "status": true
+}
+2020-12-17 09:59:49,733 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "true",
+  "res": "s3.test.com",
+  "status": true
+}
+2020-12-17 09:59:49,744 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "data": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0
+    },
+    "unit": "B"
+  },
+  "status": true
+}
+2020-12-17 09:59:49,769 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "GLACIER": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0
+    },
+    "GLACIERunit": "B",
+    "STANDARD": {
+      "2020-12-17 00:00:00": 172.74,
+      "2020-12-17 01:00:00": 172.74,
+      "2020-12-17 02:00:00": 172.74,
+      "2020-12-17 03:00:00": 172.74,
+      "2020-12-17 04:00:00": 172.74,
+      "2020-12-17 05:00:00": 172.74,
+      "2020-12-17 06:00:00": 172.74,
+      "2020-12-17 07:00:00": 172.74,
+      "2020-12-17 08:00:00": 172.74,
+      "2020-12-17 09:00:00": 172.74
+    },
+    "STANDARD_IA": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0
+    },
+    "STANDARD_IAunit": "B",
+    "STANDARDunit": "M"
+  },
+  "status": true
+}
+2020-12-17 09:59:49,773 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {},
+  "status": true
+}
+2020-12-17 09:59:49,804 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "true",
+  "res": [
+    {
+      "endPoint": "s3.test.com",
+      "endPointInternal": "s3-internal.test.com",
+      "promEndPoint": "s3.test.com:9090",
+      "regionId": "tetett",
+      "regionName": "牧野2"
+    }
+  ],
+  "status": true
+}
+2020-12-17 09:59:49,824 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "true",
+  "res": [
+    {
+      "endPoint": "s3.test.com",
+      "endPointInternal": "s3-internal.test.com",
+      "promEndPoint": "s3.test.com:9090",
+      "regionId": "tetett",
+      "regionName": "牧野2"
+    }
+  ],
+  "status": true
+}
+2020-12-17 09:59:49,836 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "api_get": "0次",
+    "api_put": "0次",
+    "flow_get": "0B"
+  },
+  "status": true
+}
+2020-12-17 09:59:49,909 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "生成预签名成功",
+  "res": "https://liyutest77.s3.test.com/test.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20201217T015949Z&X-Amz-SignedHeaders=host&X-Amz-Expires=2000&X-Amz-Credential=znO4FsoZop7L4GII%2F20201217%2Ftest%2Fs3%2Faws4_request&X-Amz-Signature=04994506390e1059a1cf133521b575cb680c6c073667d0e49e887f72d66f5995&X-Oss-Referer=cdn",
+  "status": true
+}
+2020-12-17 09:59:49,933 - logs… - INFO - {
+  "error": "Bad Request",
+  "exception": "org.springframework.web.bind.UnsatisfiedServletRequestParameterException",
+  "message": "Parameter conditions \"Action=getUserStatus\" OR \"Action=getOpenState\" OR \"Action=getAllServicedEndPoint\" OR \"Action=getObejectMetadata\" OR \"Action=getCustomdomain\" OR \"Action=headObject\" OR \"Action=getImageStyle\" OR \"Action=accessList\" OR \"Action=iamAndValidatedUser\" OR \"Action=getchildUserbyParentId\" OR \"Action=getTemporaryAccess\" OR \"Action=iamAndValidatedChildUser\" OR \"Action=getEndpoint\" OR \"Action=getApiByTime\" OR \"Action=bucket_object_num\" OR \"Action=month_statistics\" OR \"Action=getUsageByTime\" OR \"Action=getFlowByTime\" OR \"Action=bucket_usage_all\" OR \"Action=getEndpointByRegionId\" OR \"Action=getInstance\" OR \"Action=getUsageDetails\" OR \"Action=getResourceList\" OR \"Action=getProductPaymentByUserAndRegion\" OR \"getOrderByInstanceId\" OR \"Action=getExpiredResourceList\" OR \"Action=getOpenResource\" OR \"Action=getOssConfig\" OR \"Action=covertToPresignedUrl\" not met for actual request parameters: bucketName={liyutest77}, Action={getPresignedUrl}, requestType={GET}, directDownload={False}, regionId={tetett}, objectKey={test.png}, expire={2000}",
+  "path": "/oss",
+  "status": 400,
+  "timestamp": 1608170389931
+}
+2020-12-17 09:59:49,955 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "生成预签名成功",
+  "res": "https://liyutest77.s3.test.com/test.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20201217T015949Z&X-Amz-SignedHeaders=host&X-Amz-Expires=2000&X-Amz-Credential=znO4FsoZop7L4GII%2F20201217%2Ftest%2Fs3%2Faws4_request&X-Amz-Signature=04994506390e1059a1cf133521b575cb680c6c073667d0e49e887f72d66f5995&X-Oss-Referer=cdn",
+  "status": true
+}
+2020-12-17 09:59:49,962 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "该用户已开通紫光云对象存储服务",
+  "res": true,
+  "status": true
+}
+2020-12-17 09:59:49,968 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": "0",
+  "status": true
+}
+2020-12-17 09:59:49,977 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [
+    {
+      "access_key": "znO4FsoZop7L4GII",
+      "access_secret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+      "create_at": 1585303396000,
+      "enabled": 1,
+      "expired_at": null,
+      "project_id": "f71633ba-8010-4330-b572-46852d50d939",
+      "project_name": "f71633ba80104330b57246852d50d939",
+      "type": "OSS",
+      "user_id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+    }
+  ],
+  "status": true
+}
+2020-12-17 09:59:50,003 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [],
+  "status": true
+}
+2020-12-17 09:59:50,057 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "cacheControl": "no-store",
+    "contentDisposition": null,
+    "contentEncoding": null,
+    "contentLanguage": null,
+    "contentType": "image/jpeg",
+    "httpExpiresData": null,
+    "userMetadata": {}
+  },
+  "status": true
+}
+2020-12-17 09:59:50,091 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": true,
+  "status": true
+}
+2020-12-17 09:59:50,112 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "图片样式获取成功",
+  "res": {
+    "currentPage": 1,
+    "list": [
+      {
+        "breviaryHeight": null,
+        "breviaryName": null,
+        "breviaryWidth": null,
+        "bucketDomain": null,
+        "bucketName": "liyutest77",
+        "editType": null,
+        "fontColor": null,
+        "fontContent": null,
+        "fontSize": null,
+        "fontType": null,
+        "imageSize": null,
+        "limitMagnify": null,
+        "pictureRotating": null,
+        "positionX": null,
+        "positionY": null,
+        "styleCode": "image/rotate,7",
+        "styleName": "liyutest1126",
+        "waterDiaphaneity": null,
+        "waterMarkName": null,
+        "waterPicturePath": null,
+        "waterPosition": null
+      }
+    ],
+    "pageSize": 10,
+    "totalCount": 1,
+    "totalPages": 1
+  },
+  "status": true
+}
+2020-12-17 09:59:50,129 - logs… - INFO - {
+  "auth": true,
+  "code": "1",
+  "msg": "该样式不存在",
+  "res": false,
+  "status": false
+}
+2020-12-17 09:59:50,290 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "设置样式成功",
+  "res": true,
+  "status": true
+}
+2020-12-17 09:59:50,308 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": "false",
+  "status": true
+}
+2020-12-17 09:59:50,354 - logs… - INFO - {
+  "auth": true,
+  "code": "1",
+  "msg": "重命名对象名失败",
+  "res": "java.lang.Exception: Failed to rename object! com.amazonaws.services.s3.model.AmazonS3Exception: Rename Target must not be a folder and addition target have not already created. (Service: Amazon S3; Status Code: 400; Error Code: InvalidRenameTarget; Request ID: QQIF0NX9XN26XG0V; S3 Extended Request ID: OAQFT2XOBD31C6OZ), S3 Extended Request ID: OAQFT2XOBD31C6OZ",
+  "status": false
+}
+2020-12-17 10:02:25,484 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:02:25,524 - logs… - INFO - {
+  "error": "Bad Request",
+  "exception": "org.springframework.web.bind.UnsatisfiedServletRequestParameterException",
+  "message": "Parameter conditions \"Action=getUserStatus\" OR \"Action=getOpenState\" OR \"Action=getAllServicedEndPoint\" OR \"Action=getObejectMetadata\" OR \"Action=getCustomdomain\" OR \"Action=headObject\" OR \"Action=getImageStyle\" OR \"Action=accessList\" OR \"Action=iamAndValidatedUser\" OR \"Action=getchildUserbyParentId\" OR \"Action=getTemporaryAccess\" OR \"Action=iamAndValidatedChildUser\" OR \"Action=getEndpoint\" OR \"Action=getApiByTime\" OR \"Action=bucket_object_num\" OR \"Action=month_statistics\" OR \"Action=getUsageByTime\" OR \"Action=getFlowByTime\" OR \"Action=bucket_usage_all\" OR \"Action=getEndpointByRegionId\" OR \"Action=getInstance\" OR \"Action=getUsageDetails\" OR \"Action=getResourceList\" OR \"Action=getProductPaymentByUserAndRegion\" OR \"getOrderByInstanceId\" OR \"Action=getExpiredResourceList\" OR \"Action=getOpenResource\" OR \"Action=getOssConfig\" OR \"Action=covertToPresignedUrl\" not met for actual request parameters: bucketName={liyutest77}, Action={getPresignedUrl}, requestType={GET}, directDownload={False}, regionId={tetett}, objectKey={test.png}, expire={2000}",
+  "path": "/oss",
+  "status": 400,
+  "timestamp": 1608170545521
+}
+2020-12-17 10:03:34,847 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:03:34,856 - logs… - INFO - {
+  "error": "Bad Request",
+  "exception": "org.springframework.web.bind.UnsatisfiedServletRequestParameterException",
+  "message": "Parameter conditions \"Action=getUserStatus\" OR \"Action=getOpenState\" OR \"Action=getAllServicedEndPoint\" OR \"Action=getObejectMetadata\" OR \"Action=getCustomdomain\" OR \"Action=headObject\" OR \"Action=getImageStyle\" OR \"Action=accessList\" OR \"Action=iamAndValidatedUser\" OR \"Action=getchildUserbyParentId\" OR \"Action=getTemporaryAccess\" OR \"Action=iamAndValidatedChildUser\" OR \"Action=getEndpoint\" OR \"Action=getApiByTime\" OR \"Action=bucket_object_num\" OR \"Action=month_statistics\" OR \"Action=getUsageByTime\" OR \"Action=getFlowByTime\" OR \"Action=bucket_usage_all\" OR \"Action=getEndpointByRegionId\" OR \"Action=getInstance\" OR \"Action=getUsageDetails\" OR \"Action=getResourceList\" OR \"Action=getProductPaymentByUserAndRegion\" OR \"getOrderByInstanceId\" OR \"Action=getExpiredResourceList\" OR \"Action=getOpenResource\" OR \"Action=getOssConfig\" OR \"Action=covertToPresignedUrl\" not met for actual request parameters: bucketName={liyutest77}, Action={getPresignedUrl}, requestType={GET}, directDownload={False}, regionId={tetett}, objectKey={test.png}, expire={2000}",
+  "path": "/oss",
+  "status": 400,
+  "timestamp": 1608170614854
+}
+2020-12-17 10:04:37,420 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:04:37,428 - logs… - INFO - {
+  "error": "Bad Request",
+  "exception": "org.springframework.web.bind.UnsatisfiedServletRequestParameterException",
+  "message": "Parameter conditions \"Action=getUserStatus\" OR \"Action=getOpenState\" OR \"Action=getAllServicedEndPoint\" OR \"Action=getObejectMetadata\" OR \"Action=getCustomdomain\" OR \"Action=headObject\" OR \"Action=getImageStyle\" OR \"Action=accessList\" OR \"Action=iamAndValidatedUser\" OR \"Action=getchildUserbyParentId\" OR \"Action=getTemporaryAccess\" OR \"Action=iamAndValidatedChildUser\" OR \"Action=getEndpoint\" OR \"Action=getApiByTime\" OR \"Action=bucket_object_num\" OR \"Action=month_statistics\" OR \"Action=getUsageByTime\" OR \"Action=getFlowByTime\" OR \"Action=bucket_usage_all\" OR \"Action=getEndpointByRegionId\" OR \"Action=getInstance\" OR \"Action=getUsageDetails\" OR \"Action=getResourceList\" OR \"Action=getProductPaymentByUserAndRegion\" OR \"getOrderByInstanceId\" OR \"Action=getExpiredResourceList\" OR \"Action=getOpenResource\" OR \"Action=getOssConfig\" OR \"Action=covertToPresignedUrl\" not met for actual request parameters: bucketName={liyutest77}, Action={getPresignedUrl}, requestType={GET}, directDownload={False}, regionId={tetett}, objectKey={test.png}, expire={2000}",
+  "path": "/oss",
+  "status": 400,
+  "timestamp": 1608170677427
+}
+2020-12-17 10:04:56,494 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:04:56,918 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "生成预签名成功",
+  "res": {
+    "url": "https://liyutest77.s3.test.com/test.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20201217T020456Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1999&X-Amz-Credential=znO4FsoZop7L4GII%2F20201217%2Ftest%2Fs3%2Faws4_request&X-Amz-Signature=158bdc6854714bc93fbfb8b88b923f5b4f4c2c2fe875e23e63e69517179f8abc"
+  },
+  "status": true
+}
+2020-12-17 10:07:24,415 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:07:24,567 - logs… - INFO - {
+  "auth": true,
+  "code": "1",
+  "msg": "重命名对象名失败",
+  "res": "java.lang.Exception: Failed to rename object! com.amazonaws.services.s3.model.AmazonS3Exception: Rename Target must not be a folder and addition target have not already created. (Service: Amazon S3; Status Code: 400; Error Code: InvalidRenameTarget; Request ID: YZBZLEHY69C2O796; S3 Extended Request ID: OAQFT2XOBD31C6OZ), S3 Extended Request ID: OAQFT2XOBD31C6OZ",
+  "status": false
+}
+2020-12-17 10:08:38,915 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:08:38,992 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": "重命名文件名成功",
+  "status": true
+}
+2020-12-17 10:08:39,030 - logs… - INFO - {
+  "auth": true,
+  "code": "1",
+  "msg": "重命名对象名失败",
+  "res": "java.lang.Exception: Failed to rename object! com.amazonaws.services.s3.model.AmazonS3Exception: Rename Target must not be a folder and addition target have not already created. (Service: Amazon S3; Status Code: 400; Error Code: InvalidRenameTarget; Request ID: 51AN9PLZGDZ1GY55; S3 Extended Request ID: OAQFT2XOBD31C6OZ), S3 Extended Request ID: OAQFT2XOBD31C6OZ",
+  "status": false
+}
+2020-12-17 10:10:40,551 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:10:40,607 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "图片样式获取成功",
+  "res": {
+    "currentPage": 1,
+    "list": [
+      {
+        "breviaryHeight": null,
+        "breviaryName": null,
+        "breviaryWidth": null,
+        "bucketDomain": null,
+        "bucketName": "liyutest77",
+        "editType": null,
+        "fontColor": null,
+        "fontContent": null,
+        "fontSize": null,
+        "fontType": null,
+        "imageSize": null,
+        "limitMagnify": null,
+        "pictureRotating": null,
+        "positionX": null,
+        "positionY": null,
+        "styleCode": "image/rotate,7",
+        "styleName": "liyutest1126",
+        "waterDiaphaneity": null,
+        "waterMarkName": null,
+        "waterPicturePath": null,
+        "waterPosition": null
+      },
+      {
+        "breviaryHeight": null,
+        "breviaryName": null,
+        "breviaryWidth": null,
+        "bucketDomain": null,
+        "bucketName": "liyutest77",
+        "editType": null,
+        "fontColor": null,
+        "fontContent": null,
+        "fontSize": null,
+        "fontType": null,
+        "imageSize": null,
+        "limitMagnify": null,
+        "pictureRotating": null,
+        "positionX": null,
+        "positionY": null,
+        "styleCode": "image/rotate,7",
+        "styleName": "liyutest11261559",
+        "waterDiaphaneity": null,
+        "waterMarkName": null,
+        "waterPicturePath": null,
+        "waterPosition": null
+      }
+    ],
+    "pageSize": 10,
+    "totalCount": 2,
+    "totalPages": 1
+  },
+  "status": true
+}
+2020-12-17 10:10:40,643 - logs… - INFO - {
+  "auth": true,
+  "code": "1",
+  "msg": "重命名对象名失败",
+  "res": "java.lang.Exception: Failed to rename object! com.amazonaws.services.s3.model.AmazonS3Exception: Rename Target must not be a folder and addition target have not already created. (Service: Amazon S3; Status Code: 400; Error Code: InvalidRenameTarget; Request ID: JH5II8G78DKBY8QR; S3 Extended Request ID: OAQFT2XOBD31C6OZ), S3 Extended Request ID: OAQFT2XOBD31C6OZ",
+  "status": false
+}
+2020-12-17 10:12:11,250 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:12:11,285 - logs… - INFO - {
+  "auth": true,
+  "code": "1",
+  "msg": "样式名称已存在",
+  "res": false,
+  "status": false
+}
+2020-12-17 10:12:25,080 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:12:25,119 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": true,
+  "status": true
+}
+2020-12-17 10:12:38,683 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:12:38,705 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "图片样式获取成功",
+  "res": {
+    "currentPage": 1,
+    "list": [
+      {
+        "breviaryHeight": null,
+        "breviaryName": null,
+        "breviaryWidth": null,
+        "bucketDomain": null,
+        "bucketName": "liyutest77",
+        "editType": null,
+        "fontColor": null,
+        "fontContent": null,
+        "fontSize": null,
+        "fontType": null,
+        "imageSize": null,
+        "limitMagnify": null,
+        "pictureRotating": null,
+        "positionX": null,
+        "positionY": null,
+        "styleCode": "image/rotate,7",
+        "styleName": "liyutest1126",
+        "waterDiaphaneity": null,
+        "waterMarkName": null,
+        "waterPicturePath": null,
+        "waterPosition": null
+      }
+    ],
+    "pageSize": 10,
+    "totalCount": 1,
+    "totalPages": 1
+  },
+  "status": true
+}
+2020-12-17 10:12:43,320 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:12:43,388 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "设置样式成功",
+  "res": true,
+  "status": true
+}
+2020-12-17 10:12:47,465 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:12:47,503 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "设置样式成功",
+  "res": true,
+  "status": true
+}
+2020-12-17 10:12:51,816 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:12:51,845 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": true,
+  "status": true
+}
+2020-12-17 10:12:57,488 - logs… - INFO - resultPathE:\workspace\uco-oss-interfaca-test\result\report.html
+2020-12-17 10:12:57,489 - logs… - INFO - caseListFileE:\workspace\uco-oss-interfaca-test\caselist.txt
+2020-12-17 10:12:57,489 - logs… - INFO - caseList[]
+2020-12-17 10:12:57,548 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:12:57,549 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:12:57,551 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:12:57,553 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:12:57,571 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:12:57,572 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:12:57,580 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:12:57,639 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [
+    {
+      "id": 1,
+      "region": "tetett",
+      "resource": "OSSDATA.TRAFFIC.120G.FREE|外网下行流量.120G.试用,OSS.STANDARD.150G.FREE|标准资源包.150G.试用,OSSAPI.API.120tenK.FREE|API调用包.120万次.试用",
+      "time": 1,
+      "type": "YEAR_MONTH"
+    },
+    {
+      "id": 2,
+      "region": "cn-tianjin-cto",
+      "resource": "OSSDATA.TRAFFIC.200G.FREE|外网下行流量.200G.试用,OSS.STANDARD.200G.FREE|标准资源包.200G.试用,OSSAPI.API.200tenK.FREE|API调用包.200万次.试用",
+      "time": 15,
+      "type": "DAY_TRIAL"
+    }
+  ],
+  "status": true
+}
+2020-12-17 10:12:57,646 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": "100",
+  "status": true
+}
+2020-12-17 10:12:57,660 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "失效资源包列表",
+  "res": {
+    "currentPage": 1,
+    "list": [
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1602864005000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 683,
+        "instanceId": "oss159946b9d6f04f52a10cb44996a08ddf",
+        "isMoove": 0,
+        "orderId": "1306148091199549519",
+        "productCategory": "OSS",
+        "quota": 536870912000,
+        "regionId": "tetett",
+        "startTime": 1600236740000,
+        "status": 0,
+        "usage": 3821270594,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1602864005000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 701,
+        "instanceId": "oss0de4a78fad364c2dab43d8c1db76d727",
+        "isMoove": 0,
+        "orderId": "1306172612249972765",
+        "productCategory": "OSS",
+        "quota": 107374182400,
+        "regionId": "tetett",
+        "startTime": 1600250782000,
+        "status": 0,
+        "usage": 0,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1607616013000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 774,
+        "instanceId": "oss7bf6d57a4a4d4e12abd12ff4faad3ce6",
+        "isMoove": 0,
+        "orderId": "1323153290803892267",
+        "productCategory": "OSS",
+        "quota": 536870912000,
+        "regionId": "tetett",
+        "startTime": 1602309174000,
+        "status": 0,
+        "usage": 1106990642,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1606147208000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 784,
+        "instanceId": "oss7666e925b9a14979b06818373f5e2081",
+        "isMoove": 0,
+        "orderId": "1323153351457722403",
+        "productCategory": "OSS",
+        "quota": 107374182400,
+        "regionId": "tetett",
+        "startTime": 1603440227000,
+        "status": 0,
+        "usage": 0,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1606924813000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 806,
+        "instanceId": "oss6f9e84c0dcb542bd818c12895a69d7e6",
+        "isMoove": 0,
+        "orderId": "1323137153865175063",
+        "productCategory": "OSS",
+        "quota": 42949672960,
+        "regionId": "tetett",
+        "startTime": 1604295455000,
+        "status": 0,
+        "usage": 0,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1606924813000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 807,
+        "instanceId": "ossd864c6f620034c9f826fc26d241d362f",
+        "isMoove": 0,
+        "orderId": "1323143350198558729",
+        "productCategory": "OSS",
+        "quota": 42949672960,
+        "regionId": "tetett",
+        "startTime": 1604296932000,
+        "status": 0,
+        "usage": 0,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1606924813000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 808,
+        "instanceId": "ossea9587869edc4ca3aef81a267e272a36",
+        "isMoove": 0,
+        "orderId": "1323143465948766307",
+        "productCategory": "OSS",
+        "quota": 42949672960,
+        "regionId": "tetett",
+        "startTime": 1604296960000,
+        "status": 0,
+        "usage": 0,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1606924813000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 809,
+        "instanceId": "oss0e2f16b9b8ac4c2ea5ca3798fc2aa83a",
+        "isMoove": 0,
+        "orderId": "1323143608504766482",
+        "productCategory": "OSS",
+        "quota": 42949672960,
+        "regionId": "tetett",
+        "startTime": 1604296994000,
+        "status": 0,
+        "usage": 0,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1606924813000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 820,
+        "instanceId": "ossd10258418f1548f0b5b2abd34f47f7ef",
+        "isMoove": 0,
+        "orderId": "1323154667542237276",
+        "productCategory": "OSS",
+        "quota": 42949672960,
+        "regionId": "tetett",
+        "startTime": 1604299631000,
+        "status": 0,
+        "usage": 0,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1606924813000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 821,
+        "instanceId": "ossc7ba6cb814184beeb27f2db079951984",
+        "isMoove": 0,
+        "orderId": "1323154732285509716",
+        "productCategory": "OSS",
+        "quota": 42949672960,
+        "regionId": "tetett",
+        "startTime": 1604299646000,
+        "status": 0,
+        "usage": 0,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      }
+    ],
+    "pageSize": 10,
+    "totalCount": 21,
+    "totalPages": 3
+  },
+  "status": true
+}
+2020-12-17 10:12:57,725 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "实例信息",
+  "res": [
+    {
+      "az": null,
+      "azId": null,
+      "chargeType": 1,
+      "createTime": 1596959924000,
+      "dueTime": null,
+      "formalPayTime": 1596959924000,
+      "id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+      "instanceCloseTime": null,
+      "instanceComponentDtoList": [
+        {
+          "componentCode": "API",
+          "componentId": null,
+          "componentParentId": null,
+          "componentProperty": "{\"specificationCode\":\"OSS_SERVICE.API.1tenK\"}",
+          "createTime": 1596959924000,
+          "id": 47537,
+          "instanceId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+          "specificationCode": "OSS_SERVICE.API.1tenK",
+          "updateTime": 1596959924000,
+          "updateType": 0
+        },
+        {
+          "componentCode": "DATARETRIEVE",
+          "componentId": null,
+          "componentParentId": null,
+          "componentProperty": "{\"specificationCode\":\"OSS_SERVICE.DATARETRIEVE.1G\"}",
+          "createTime": 1596959924000,
+          "id": 47544,
+          "instanceId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+          "specificationCode": "OSS_SERVICE.DATARETRIEVE.1G",
+          "updateTime": 1596959924000,
+          "updateType": 0
+        },
+        {
+          "componentCode": "GLACIER",
+          "componentId": null,
+          "componentParentId": null,
+          "componentProperty": "{\"specificationCode\":\"OSS_SERVICE.GLACIER.1G\"}",
+          "createTime": 1596959924000,
+          "id": 47540,
+          "instanceId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+          "specificationCode": "OSS_SERVICE.GLACIER.1G",
+          "updateTime": 1596959924000,
+          "updateType": 0
+        },
+        {
+          "componentCode": "RESTORE",
+          "componentId": null,
+          "componentParentId": null,
+          "componentProperty": "{\"specificationCode\":\"OSS_SERVICE.RESTORE.1G\"}",
+          "createTime": 1596959924000,
+          "id": 47543,
+          "instanceId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+          "specificationCode": "OSS_SERVICE.RESTORE.1G",
+          "updateTime": 1596959924000,
+          "updateType": 0
+        },
+        {
+          "componentCode": "STANDARD",
+          "componentId": null,
+          "componentParentId": null,
+          "componentProperty": "{\"specificationCode\":\"OSS_SERVICE.STANDARD.1G\"}",
+          "createTime": 1596959924000,
+          "id": 47538,
+          "instanceId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+          "specificationCode": "OSS_SERVICE.STANDARD.1G",
+          "updateTime": 1596959924000,
+          "updateType": 0
+        },
+        {
+          "componentCode": "STANDARD_IA",
+          "componentId": null,
+          "componentParentId": null,
+          "componentProperty": "{\"specificationCode\":\"OSS_SERVICE.STANDARD_IA.1G\"}",
+          "createTime": 1596959924000,
+          "id": 47539,
+          "instanceId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+          "specificationCode": "OSS_SERVICE.STANDARD_IA.1G",
+          "updateTime": 1596959924000,
+          "updateType": 0
+        },
+        {
+          "componentCode": "TRAFFIC_BUSY",
+          "componentId": null,
+          "componentParentId": null,
+          "componentProperty": "{\"specificationCode\":\"OSS_SERVICE.TRAFFIC_BUSY.1G\"}",
+          "createTime": 1596959924000,
+          "id": 47541,
+          "instanceId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+          "specificationCode": "OSS_SERVICE.TRAFFIC_BUSY.1G",
+          "updateTime": 1596959924000,
+          "updateType": 0
+        },
+        {
+          "componentCode": "TRAFFIC_LEISURE",
+          "componentId": null,
+          "componentParentId": null,
+          "componentProperty": "{\"specificationCode\":\"OSS_SERVICE.TRAFFIC_LEISURE.1G\"}",
+          "createTime": 1596959924000,
+          "id": 47542,
+          "instanceId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+          "specificationCode": "OSS_SERVICE.TRAFFIC_LEISURE.1G",
+          "updateTime": 1596959924000,
+          "updateType": 0
+        }
+      ],
+      "instanceDescription": null,
+      "instanceEndTime": null,
+      "instanceLabel": 1,
+      "instanceName": "对象存储后付费服务",
+      "instanceParentId": null,
+      "instanceReleaseTime": null,
+      "instanceRestartTime": null,
+      "instanceStartTime": 1596959924000,
+      "isMspProduct": null,
+      "isOld": 0,
+      "isPay": 1,
+      "isPayClose": 0,
+      "operationStatus": 2,
+      "orderId": 1292369704320565263,
+      "payType": "CHARGING_HOURS",
+      "productCode": "OSS_SERVICE",
+      "productGroupId": null,
+      "regionId": "*",
+      "regionName": null,
+      "renewType": null,
+      "rentCount": null,
+      "rentUnit": null,
+      "trialDescription": null,
+      "turnFormalTime": null,
+      "updateTime": 1596959923000,
+      "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+      "userName": "liyu77",
+      "userParentId": null
+    }
+  ],
+  "status": true
+}
+2020-12-17 10:12:57,752 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "OSS": "java.lang.Exception: {\"success\":true,\"code\":\"0\",\"message\":\"Successful!\",\"data\":null}",
+    "OSSAPI": "java.lang.Exception: {\"success\":true,\"code\":\"0\",\"message\":\"Successful!\",\"data\":null}",
+    "OSSDATA": "java.lang.Exception: {\"success\":true,\"code\":\"0\",\"message\":\"Successful!\",\"data\":null}"
+  },
+  "status": true
+}
+2020-12-17 10:12:57,784 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [
+    {
+      "chargeType": "prepaid",
+      "checkBalanceAmount": -1,
+      "formula": "x",
+      "freeTrials": false,
+      "id": 318,
+      "ownTimeFlag": false,
+      "paymentMethodCode": "YEAR_MONTH",
+      "paymentMethodName": "包年包月",
+      "productCode": "OSS",
+      "productName": "对象存储资源包",
+      "regionId": "tetett",
+      "regionName": "牧野2",
+      "sequenceNum": 2147483647,
+      "status": 2,
+      "tagFlag": 0,
+      "type": 0
+    },
+    {
+      "chargeType": "prepaid",
+      "checkBalanceAmount": -1,
+      "formula": "x",
+      "freeTrials": false,
+      "id": 335,
+      "ownTimeFlag": false,
+      "paymentMethodCode": "DAY_TRIAL",
+      "paymentMethodName": "免费试用",
+      "productCode": "OSS",
+      "productName": "对象存储资源包",
+      "regionId": "tetett",
+      "regionName": "牧野2",
+      "sequenceNum": 2147483647,
+      "status": 2,
+      "tagFlag": 1,
+      "type": 0
+    }
+  ],
+  "status": true
+}
+2020-12-17 10:12:57,800 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "OSS": [
+      {
+        "createTime": 1588733568000,
+        "display": "1个月",
+        "id": 87,
+        "productCode": "OSS",
+        "purchaseTime": 1,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733632000
+      },
+      {
+        "createTime": 1588733581000,
+        "display": "2个月",
+        "id": 88,
+        "productCode": "OSS",
+        "purchaseTime": 2,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733635000
+      },
+      {
+        "createTime": 1588733588000,
+        "display": "3个月",
+        "id": 89,
+        "productCode": "OSS",
+        "purchaseTime": 3,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733637000
+      },
+      {
+        "createTime": 1588733599000,
+        "display": "6个月",
+        "id": 90,
+        "productCode": "OSS",
+        "purchaseTime": 6,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733638000
+      },
+      {
+        "createTime": 1588733609000,
+        "display": "1年",
+        "id": 91,
+        "productCode": "OSS",
+        "purchaseTime": 12,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733640000
+      },
+      {
+        "createTime": 1588733618000,
+        "display": "2年",
+        "id": 92,
+        "productCode": "OSS",
+        "purchaseTime": 24,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733641000
+      },
+      {
+        "createTime": 1588733626000,
+        "display": "3年",
+        "id": 93,
+        "productCode": "OSS",
+        "purchaseTime": 36,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733643000
+      }
+    ],
+    "OSSAPI": [
+      {
+        "createTime": 1588746921000,
+        "display": "1个月",
+        "id": 94,
+        "productCode": "OSSAPI",
+        "purchaseTime": 1,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756115000
+      },
+      {
+        "createTime": 1588746932000,
+        "display": "2个月",
+        "id": 95,
+        "productCode": "OSSAPI",
+        "purchaseTime": 2,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756117000
+      },
+      {
+        "createTime": 1588746938000,
+        "display": "3个月",
+        "id": 96,
+        "productCode": "OSSAPI",
+        "purchaseTime": 3,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756118000
+      },
+      {
+        "createTime": 1588746946000,
+        "display": "6个月",
+        "id": 97,
+        "productCode": "OSSAPI",
+        "purchaseTime": 6,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756120000
+      },
+      {
+        "createTime": 1588746958000,
+        "display": "1年",
+        "id": 98,
+        "productCode": "OSSAPI",
+        "purchaseTime": 12,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756122000
+      },
+      {
+        "createTime": 1588746965000,
+        "display": "2年",
+        "id": 99,
+        "productCode": "OSSAPI",
+        "purchaseTime": 24,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756123000
+      },
+      {
+        "createTime": 1588746974000,
+        "display": "3年",
+        "id": 100,
+        "productCode": "OSSAPI",
+        "purchaseTime": 36,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756125000
+      }
+    ],
+    "OSSDATA": [
+      {
+        "createTime": 1588757411000,
+        "display": "1个月",
+        "id": 101,
+        "productCode": "OSSDATA",
+        "purchaseTime": 1,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757478000
+      },
+      {
+        "createTime": 1588757418000,
+        "display": "2个月",
+        "id": 102,
+        "productCode": "OSSDATA",
+        "purchaseTime": 2,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757480000
+      },
+      {
+        "createTime": 1588757437000,
+        "display": "3个月",
+        "id": 103,
+        "productCode": "OSSDATA",
+        "purchaseTime": 3,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757481000
+      },
+      {
+        "createTime": 1588757451000,
+        "display": "6个月",
+        "id": 104,
+        "productCode": "OSSDATA",
+        "purchaseTime": 6,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757483000
+      },
+      {
+        "createTime": 1588757460000,
+        "display": "1年",
+        "id": 105,
+        "productCode": "OSSDATA",
+        "purchaseTime": 12,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757484000
+      },
+      {
+        "createTime": 1588757467000,
+        "display": "2年",
+        "id": 106,
+        "productCode": "OSSDATA",
+        "purchaseTime": 24,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757486000
+      },
+      {
+        "createTime": 1588757475000,
+        "display": "3年",
+        "id": 107,
+        "productCode": "OSSDATA",
+        "purchaseTime": 36,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757488000
+      }
+    ]
+  },
+  "status": true
+}
+2020-12-17 10:12:57,807 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "资源包列表",
+  "res": {
+    "currentPage": 1,
+    "list": [],
+    "pageSize": 10,
+    "totalCount": 0,
+    "totalPages": 1
+  },
+  "status": true
+}
+2020-12-17 10:12:57,814 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "资源包使用明细",
+  "res": {
+    "currentPage": 1,
+    "list": [],
+    "pageSize": 10,
+    "totalCount": 0,
+    "totalPages": 1
+  },
+  "status": true
+}
+2020-12-17 10:12:57,837 - logs… - INFO - {
+  "auth": true,
+  "code": 0,
+  "msg": "对象存储后付费使用信息",
+  "res": {
+    "endTime": null,
+    "instanceList": null,
+    "startTime": null
+  },
+  "status": true
+}
+2020-12-17 10:12:57,869 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "access_info": {
+      "access_key": "znO4FsoZop7L4GII",
+      "access_secret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+      "create_at": null,
+      "enabled": 1,
+      "expired_at": null,
+      "project_id": "f71633ba-8010-4330-b572-46852d50d939",
+      "project_name": "f71633ba80104330b57246852d50d939",
+      "type": "OSS",
+      "user_id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+    },
+    "child_user": null,
+    "policy_list": [],
+    "root_user": {
+      "default_project_uuid": "f71633ba-8010-4330-b572-46852d50d939",
+      "enabled": 1,
+      "id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+      "name": "liyu77",
+      "type": "PUBLIC"
+    }
+  },
+  "status": true
+}
+2020-12-17 10:12:57,886 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "accessKey": "znO4FsoZop7L4GII",
+    "accessSecret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+    "createAt": "1585303396000",
+    "enabled": 1,
+    "expiredAt": null,
+    "projectId": "f71633ba-8010-4330-b572-46852d50d939",
+    "projectName": "f71633ba80104330b57246852d50d939",
+    "signature": null,
+    "temp": null,
+    "type": "OSS",
+    "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+  },
+  "status": true
+}
+2020-12-17 10:12:57,895 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "content": [],
+    "page": 0,
+    "size": 50,
+    "total_count": 0
+  },
+  "status": true
+}
+2020-12-17 10:12:57,906 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "access_info": {
+      "access_key": "znO4FsoZop7L4GII",
+      "access_secret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+      "create_at": null,
+      "enabled": 1,
+      "expired_at": null,
+      "project_id": "f71633ba-8010-4330-b572-46852d50d939",
+      "project_name": "f71633ba80104330b57246852d50d939",
+      "type": "OSS",
+      "user_id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+    },
+    "child_user": null,
+    "policy_list": [],
+    "root_user": {
+      "default_project_uuid": "f71633ba-8010-4330-b572-46852d50d939",
+      "enabled": 1,
+      "id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+      "name": "liyu77",
+      "type": "PUBLIC"
+    }
+  },
+  "status": true
+}
+2020-12-17 10:12:57,915 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "accessKey": "znO4FsoZop7L4GII",
+    "accessSecret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+    "createAt": "1585303396000",
+    "enabled": 1,
+    "expiredAt": null,
+    "projectId": "f71633ba-8010-4330-b572-46852d50d939",
+    "projectName": "f71633ba80104330b57246852d50d939",
+    "signature": null,
+    "temp": null,
+    "type": "OSS",
+    "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+  },
+  "status": true
+}
+2020-12-17 10:12:57,939 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "GET": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0,
+      "2020-12-17 10:00:00": 0
+    },
+    "GETunit": "次",
+    "PUT": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0,
+      "2020-12-17 10:00:00": 0
+    },
+    "PUTunit": "次"
+  },
+  "status": true
+}
+2020-12-17 10:12:57,950 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "data": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0,
+      "2020-12-17 10:00:00": 0
+    },
+    "unit": "B"
+  },
+  "status": true
+}
+2020-12-17 10:12:57,973 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "GLACIER": {
+      "2020-12-17 00:00:00": 308.0,
+      "2020-12-17 01:00:00": 308.0,
+      "2020-12-17 02:00:00": 308.0,
+      "2020-12-17 03:00:00": 308.0,
+      "2020-12-17 04:00:00": 308.0,
+      "2020-12-17 05:00:00": 308.0,
+      "2020-12-17 06:00:00": 308.0,
+      "2020-12-17 07:00:00": 308.0,
+      "2020-12-17 08:00:00": 308.0,
+      "2020-12-17 09:00:00": 308.0,
+      "2020-12-17 10:00:00": 308.0
+    },
+    "GLACIERunit": "K",
+    "STANDARD": {
+      "2020-12-17 00:00:00": 885.9,
+      "2020-12-17 01:00:00": 885.9,
+      "2020-12-17 02:00:00": 885.9,
+      "2020-12-17 03:00:00": 885.9,
+      "2020-12-17 04:00:00": 885.9,
+      "2020-12-17 05:00:00": 885.9,
+      "2020-12-17 06:00:00": 885.9,
+      "2020-12-17 07:00:00": 885.9,
+      "2020-12-17 08:00:00": 885.9,
+      "2020-12-17 09:00:00": 885.9,
+      "2020-12-17 10:00:00": 885.9
+    },
+    "STANDARD_IA": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0,
+      "2020-12-17 10:00:00": 0
+    },
+    "STANDARD_IAunit": "B",
+    "STANDARDunit": "M"
+  },
+  "status": true
+}
+2020-12-17 10:12:57,986 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "api_get": "0次",
+    "api_put": "0次",
+    "flow_get": "0B"
+  },
+  "status": true
+}
+2020-12-17 10:12:58,056 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "bucket_num": "8"
+  },
+  "status": true
+}
+2020-12-17 10:12:58,064 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "GLACIER": "0B",
+    "STANDARD": "0B",
+    "STANDARD_IA": "0B"
+  },
+  "status": true
+}
+2020-12-17 10:12:58,072 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "GLACIER": "0B",
+    "STANDARD": "0B",
+    "STANDARD_IA": "0B"
+  },
+  "status": true
+}
+2020-12-17 10:12:58,091 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "GET": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0,
+      "2020-12-17 10:00:00": 0
+    },
+    "GETunit": "次",
+    "PUT": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0,
+      "2020-12-17 10:00:00": 0
+    },
+    "PUTunit": "次"
+  },
+  "status": true
+}
+2020-12-17 10:12:58,121 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "true",
+  "res": [
+    {
+      "endPoint": "bj.unicloud.com",
+      "endPointInternal": "bj-internal.unicloud.com",
+      "promEndPoint": "bj.unicloud.com:9090",
+      "regionId": "d8812c35-b90a-4c06-86c0-dbas4630",
+      "regionName": "华北1-天津"
+    },
+    {
+      "endPoint": "s3.test.com",
+      "endPointInternal": "s3-internal.test.com",
+      "promEndPoint": "s3.test.com:9090",
+      "regionId": "tetett",
+      "regionName": "牧野2"
+    }
+  ],
+  "status": true
+}
+2020-12-17 10:12:58,126 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "true",
+  "res": "s3.test.com",
+  "status": true
+}
+2020-12-17 10:12:58,137 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "data": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0,
+      "2020-12-17 10:00:00": 0
+    },
+    "unit": "B"
+  },
+  "status": true
+}
+2020-12-17 10:12:58,161 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "GLACIER": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0,
+      "2020-12-17 10:00:00": 0
+    },
+    "GLACIERunit": "B",
+    "STANDARD": {
+      "2020-12-17 00:00:00": 172.74,
+      "2020-12-17 01:00:00": 172.74,
+      "2020-12-17 02:00:00": 172.74,
+      "2020-12-17 03:00:00": 172.74,
+      "2020-12-17 04:00:00": 172.74,
+      "2020-12-17 05:00:00": 172.74,
+      "2020-12-17 06:00:00": 172.74,
+      "2020-12-17 07:00:00": 172.74,
+      "2020-12-17 08:00:00": 172.74,
+      "2020-12-17 09:00:00": 172.74,
+      "2020-12-17 10:00:00": 172.74
+    },
+    "STANDARD_IA": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0,
+      "2020-12-17 10:00:00": 0
+    },
+    "STANDARD_IAunit": "B",
+    "STANDARDunit": "M"
+  },
+  "status": true
+}
+2020-12-17 10:12:58,165 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {},
+  "status": true
+}
+2020-12-17 10:12:58,196 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "true",
+  "res": [
+    {
+      "endPoint": "s3.test.com",
+      "endPointInternal": "s3-internal.test.com",
+      "promEndPoint": "s3.test.com:9090",
+      "regionId": "tetett",
+      "regionName": "牧野2"
+    }
+  ],
+  "status": true
+}
+2020-12-17 10:12:58,216 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "true",
+  "res": [
+    {
+      "endPoint": "s3.test.com",
+      "endPointInternal": "s3-internal.test.com",
+      "promEndPoint": "s3.test.com:9090",
+      "regionId": "tetett",
+      "regionName": "牧野2"
+    }
+  ],
+  "status": true
+}
+2020-12-17 10:12:58,227 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "api_get": "0次",
+    "api_put": "0次",
+    "flow_get": "0B"
+  },
+  "status": true
+}
+2020-12-17 10:12:58,278 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "生成预签名成功",
+  "res": "https://liyutest77.s3.test.com/test.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20201217T021258Z&X-Amz-SignedHeaders=host&X-Amz-Expires=2000&X-Amz-Credential=znO4FsoZop7L4GII%2F20201217%2Ftest%2Fs3%2Faws4_request&X-Amz-Signature=1f16b71de62d8410ae8242b5d1511d24567e30a88b0bf48f9ebe021d4c1c3fe6&X-Oss-Referer=cdn",
+  "status": true
+}
+2020-12-17 10:12:58,297 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "生成预签名成功",
+  "res": "https://liyutest77.s3.test.com/test.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20201217T021258Z&X-Amz-SignedHeaders=host&X-Amz-Expires=2000&X-Amz-Credential=znO4FsoZop7L4GII%2F20201217%2Ftest%2Fs3%2Faws4_request&X-Amz-Signature=1f16b71de62d8410ae8242b5d1511d24567e30a88b0bf48f9ebe021d4c1c3fe6&X-Oss-Referer=cdn",
+  "status": true
+}
+2020-12-17 10:12:58,304 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "该用户已开通紫光云对象存储服务",
+  "res": true,
+  "status": true
+}
+2020-12-17 10:12:58,309 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": "0",
+  "status": true
+}
+2020-12-17 10:12:58,318 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [
+    {
+      "access_key": "znO4FsoZop7L4GII",
+      "access_secret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+      "create_at": 1585303396000,
+      "enabled": 1,
+      "expired_at": null,
+      "project_id": "f71633ba-8010-4330-b572-46852d50d939",
+      "project_name": "f71633ba80104330b57246852d50d939",
+      "type": "OSS",
+      "user_id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+    }
+  ],
+  "status": true
+}
+2020-12-17 10:12:58,334 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [],
+  "status": true
+}
+2020-12-17 10:12:58,379 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "cacheControl": "no-store",
+    "contentDisposition": null,
+    "contentEncoding": null,
+    "contentLanguage": null,
+    "contentType": "image/jpeg",
+    "httpExpiresData": null,
+    "userMetadata": {}
+  },
+  "status": true
+}
+2020-12-17 10:12:58,394 - logs… - INFO - {
+  "auth": true,
+  "code": "1",
+  "msg": "删除图片样式失败",
+  "res": "Not all deleted successfully, Delete failed message: {liyutest11261559=Request yig failed,org.springframework.web.client.HttpClientErrorException: 404 Not Found}",
+  "status": false
+}
+2020-12-17 10:12:58,410 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "图片样式获取成功",
+  "res": {
+    "currentPage": 1,
+    "list": [
+      {
+        "breviaryHeight": null,
+        "breviaryName": null,
+        "breviaryWidth": null,
+        "bucketDomain": null,
+        "bucketName": "liyutest77",
+        "editType": null,
+        "fontColor": null,
+        "fontContent": null,
+        "fontSize": null,
+        "fontType": null,
+        "imageSize": null,
+        "limitMagnify": null,
+        "pictureRotating": null,
+        "positionX": null,
+        "positionY": null,
+        "styleCode": "image/rotate,7",
+        "styleName": "liyutest1126",
+        "waterDiaphaneity": null,
+        "waterMarkName": null,
+        "waterPicturePath": null,
+        "waterPosition": null
+      }
+    ],
+    "pageSize": 10,
+    "totalCount": 1,
+    "totalPages": 1
+  },
+  "status": true
+}
+2020-12-17 10:12:58,423 - logs… - INFO - {
+  "auth": true,
+  "code": "1",
+  "msg": "该样式不存在",
+  "res": false,
+  "status": false
+}
+2020-12-17 10:12:58,458 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "设置样式成功",
+  "res": true,
+  "status": true
+}
+2020-12-17 10:12:58,474 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": "false",
+  "status": true
+}
+2020-12-17 10:12:58,508 - logs… - INFO - {
+  "auth": true,
+  "code": "1",
+  "msg": "重命名对象名失败",
+  "res": "java.lang.Exception: Failed to rename object! com.amazonaws.services.s3.model.AmazonS3Exception: Rename Target must not be a folder and addition target have not already created. (Service: Amazon S3; Status Code: 400; Error Code: InvalidRenameTarget; Request ID: X1LCW1BAZSV8W4EL; S3 Extended Request ID: OAQFT2XOBD31C6OZ), S3 Extended Request ID: OAQFT2XOBD31C6OZ",
+  "status": false
+}
+2020-12-17 10:12:58,521 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "生成预签名成功",
+  "res": {
+    "url": "https://liyutest77.s3.test.com/test.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20201217T021258Z&X-Amz-SignedHeaders=host&X-Amz-Expires=2000&X-Amz-Credential=znO4FsoZop7L4GII%2F20201217%2Ftest%2Fs3%2Faws4_request&X-Amz-Signature=1f16b71de62d8410ae8242b5d1511d24567e30a88b0bf48f9ebe021d4c1c3fe6"
+  },
+  "status": true
+}
+2020-12-17 10:14:40,260 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:14:40,287 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "图片样式获取成功",
+  "res": {
+    "currentPage": 1,
+    "list": [
+      {
+        "breviaryHeight": null,
+        "breviaryName": null,
+        "breviaryWidth": null,
+        "bucketDomain": null,
+        "bucketName": "liyutest77",
+        "editType": null,
+        "fontColor": null,
+        "fontContent": null,
+        "fontSize": null,
+        "fontType": null,
+        "imageSize": null,
+        "limitMagnify": null,
+        "pictureRotating": null,
+        "positionX": null,
+        "positionY": null,
+        "styleCode": "image/rotate,7",
+        "styleName": "liyutest1126",
+        "waterDiaphaneity": null,
+        "waterMarkName": null,
+        "waterPicturePath": null,
+        "waterPosition": null
+      },
+      {
+        "breviaryHeight": null,
+        "breviaryName": null,
+        "breviaryWidth": null,
+        "bucketDomain": null,
+        "bucketName": "liyutest77",
+        "editType": null,
+        "fontColor": null,
+        "fontContent": null,
+        "fontSize": null,
+        "fontType": null,
+        "imageSize": null,
+        "limitMagnify": null,
+        "pictureRotating": null,
+        "positionX": null,
+        "positionY": null,
+        "styleCode": "image/rotate,7",
+        "styleName": "liyutest11261559",
+        "waterDiaphaneity": null,
+        "waterMarkName": null,
+        "waterPicturePath": null,
+        "waterPosition": null
+      }
+    ],
+    "pageSize": 10,
+    "totalCount": 2,
+    "totalPages": 1
+  },
+  "status": true
+}
+2020-12-17 10:14:51,010 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:14:51,039 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": true,
+  "status": true
+}
+2020-12-17 10:18:42,286 - logs… - INFO - resultPathE:\workspace\uco-oss-interfaca-test\result\report.html
+2020-12-17 10:18:42,286 - logs… - INFO - caseListFileE:\workspace\uco-oss-interfaca-test\caselist.txt
+2020-12-17 10:18:42,286 - logs… - INFO - caseList[]
+2020-12-17 10:18:42,351 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:18:42,352 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:18:42,354 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:18:42,356 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:18:42,376 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:18:42,377 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:18:42,382 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 10:18:42,402 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [
+    {
+      "id": 1,
+      "region": "tetett",
+      "resource": "OSSDATA.TRAFFIC.120G.FREE|外网下行流量.120G.试用,OSS.STANDARD.150G.FREE|标准资源包.150G.试用,OSSAPI.API.120tenK.FREE|API调用包.120万次.试用",
+      "time": 1,
+      "type": "YEAR_MONTH"
+    },
+    {
+      "id": 2,
+      "region": "cn-tianjin-cto",
+      "resource": "OSSDATA.TRAFFIC.200G.FREE|外网下行流量.200G.试用,OSS.STANDARD.200G.FREE|标准资源包.200G.试用,OSSAPI.API.200tenK.FREE|API调用包.200万次.试用",
+      "time": 15,
+      "type": "DAY_TRIAL"
+    }
+  ],
+  "status": true
+}
+2020-12-17 10:18:42,408 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": "100",
+  "status": true
+}
+2020-12-17 10:18:42,417 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "失效资源包列表",
+  "res": {
+    "currentPage": 1,
+    "list": [
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1602864005000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 683,
+        "instanceId": "oss159946b9d6f04f52a10cb44996a08ddf",
+        "isMoove": 0,
+        "orderId": "1306148091199549519",
+        "productCategory": "OSS",
+        "quota": 536870912000,
+        "regionId": "tetett",
+        "startTime": 1600236740000,
+        "status": 0,
+        "usage": 3821270594,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1602864005000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 701,
+        "instanceId": "oss0de4a78fad364c2dab43d8c1db76d727",
+        "isMoove": 0,
+        "orderId": "1306172612249972765",
+        "productCategory": "OSS",
+        "quota": 107374182400,
+        "regionId": "tetett",
+        "startTime": 1600250782000,
+        "status": 0,
+        "usage": 0,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1607616013000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 774,
+        "instanceId": "oss7bf6d57a4a4d4e12abd12ff4faad3ce6",
+        "isMoove": 0,
+        "orderId": "1323153290803892267",
+        "productCategory": "OSS",
+        "quota": 536870912000,
+        "regionId": "tetett",
+        "startTime": 1602309174000,
+        "status": 0,
+        "usage": 1106990642,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1606147208000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 784,
+        "instanceId": "oss7666e925b9a14979b06818373f5e2081",
+        "isMoove": 0,
+        "orderId": "1323153351457722403",
+        "productCategory": "OSS",
+        "quota": 107374182400,
+        "regionId": "tetett",
+        "startTime": 1603440227000,
+        "status": 0,
+        "usage": 0,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1606924813000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 806,
+        "instanceId": "oss6f9e84c0dcb542bd818c12895a69d7e6",
+        "isMoove": 0,
+        "orderId": "1323137153865175063",
+        "productCategory": "OSS",
+        "quota": 42949672960,
+        "regionId": "tetett",
+        "startTime": 1604295455000,
+        "status": 0,
+        "usage": 0,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1606924813000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 807,
+        "instanceId": "ossd864c6f620034c9f826fc26d241d362f",
+        "isMoove": 0,
+        "orderId": "1323143350198558729",
+        "productCategory": "OSS",
+        "quota": 42949672960,
+        "regionId": "tetett",
+        "startTime": 1604296932000,
+        "status": 0,
+        "usage": 0,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1606924813000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 808,
+        "instanceId": "ossea9587869edc4ca3aef81a267e272a36",
+        "isMoove": 0,
+        "orderId": "1323143465948766307",
+        "productCategory": "OSS",
+        "quota": 42949672960,
+        "regionId": "tetett",
+        "startTime": 1604296960000,
+        "status": 0,
+        "usage": 0,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1606924813000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 809,
+        "instanceId": "oss0e2f16b9b8ac4c2ea5ca3798fc2aa83a",
+        "isMoove": 0,
+        "orderId": "1323143608504766482",
+        "productCategory": "OSS",
+        "quota": 42949672960,
+        "regionId": "tetett",
+        "startTime": 1604296994000,
+        "status": 0,
+        "usage": 0,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1606924813000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 820,
+        "instanceId": "ossd10258418f1548f0b5b2abd34f47f7ef",
+        "isMoove": 0,
+        "orderId": "1323154667542237276",
+        "productCategory": "OSS",
+        "quota": 42949672960,
+        "regionId": "tetett",
+        "startTime": 1604299631000,
+        "status": 0,
+        "usage": 0,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      },
+      {
+        "billType": "STANDARD",
+        "deleteMark": 2,
+        "dueTime": 1606924813000,
+        "excessAmount": null,
+        "extensionUsage": null,
+        "id": 821,
+        "instanceId": "ossc7ba6cb814184beeb27f2db079951984",
+        "isMoove": 0,
+        "orderId": "1323154732285509716",
+        "productCategory": "OSS",
+        "quota": 42949672960,
+        "regionId": "tetett",
+        "startTime": 1604299646000,
+        "status": 0,
+        "usage": 0,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      }
+    ],
+    "pageSize": 10,
+    "totalCount": 21,
+    "totalPages": 3
+  },
+  "status": true
+}
+2020-12-17 10:18:42,473 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "实例信息",
+  "res": [
+    {
+      "az": null,
+      "azId": null,
+      "chargeType": 1,
+      "createTime": 1596959924000,
+      "dueTime": null,
+      "formalPayTime": 1596959924000,
+      "id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+      "instanceCloseTime": null,
+      "instanceComponentDtoList": [
+        {
+          "componentCode": "API",
+          "componentId": null,
+          "componentParentId": null,
+          "componentProperty": "{\"specificationCode\":\"OSS_SERVICE.API.1tenK\"}",
+          "createTime": 1596959924000,
+          "id": 47537,
+          "instanceId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+          "specificationCode": "OSS_SERVICE.API.1tenK",
+          "updateTime": 1596959924000,
+          "updateType": 0
+        },
+        {
+          "componentCode": "DATARETRIEVE",
+          "componentId": null,
+          "componentParentId": null,
+          "componentProperty": "{\"specificationCode\":\"OSS_SERVICE.DATARETRIEVE.1G\"}",
+          "createTime": 1596959924000,
+          "id": 47544,
+          "instanceId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+          "specificationCode": "OSS_SERVICE.DATARETRIEVE.1G",
+          "updateTime": 1596959924000,
+          "updateType": 0
+        },
+        {
+          "componentCode": "GLACIER",
+          "componentId": null,
+          "componentParentId": null,
+          "componentProperty": "{\"specificationCode\":\"OSS_SERVICE.GLACIER.1G\"}",
+          "createTime": 1596959924000,
+          "id": 47540,
+          "instanceId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+          "specificationCode": "OSS_SERVICE.GLACIER.1G",
+          "updateTime": 1596959924000,
+          "updateType": 0
+        },
+        {
+          "componentCode": "RESTORE",
+          "componentId": null,
+          "componentParentId": null,
+          "componentProperty": "{\"specificationCode\":\"OSS_SERVICE.RESTORE.1G\"}",
+          "createTime": 1596959924000,
+          "id": 47543,
+          "instanceId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+          "specificationCode": "OSS_SERVICE.RESTORE.1G",
+          "updateTime": 1596959924000,
+          "updateType": 0
+        },
+        {
+          "componentCode": "STANDARD",
+          "componentId": null,
+          "componentParentId": null,
+          "componentProperty": "{\"specificationCode\":\"OSS_SERVICE.STANDARD.1G\"}",
+          "createTime": 1596959924000,
+          "id": 47538,
+          "instanceId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+          "specificationCode": "OSS_SERVICE.STANDARD.1G",
+          "updateTime": 1596959924000,
+          "updateType": 0
+        },
+        {
+          "componentCode": "STANDARD_IA",
+          "componentId": null,
+          "componentParentId": null,
+          "componentProperty": "{\"specificationCode\":\"OSS_SERVICE.STANDARD_IA.1G\"}",
+          "createTime": 1596959924000,
+          "id": 47539,
+          "instanceId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+          "specificationCode": "OSS_SERVICE.STANDARD_IA.1G",
+          "updateTime": 1596959924000,
+          "updateType": 0
+        },
+        {
+          "componentCode": "TRAFFIC_BUSY",
+          "componentId": null,
+          "componentParentId": null,
+          "componentProperty": "{\"specificationCode\":\"OSS_SERVICE.TRAFFIC_BUSY.1G\"}",
+          "createTime": 1596959924000,
+          "id": 47541,
+          "instanceId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+          "specificationCode": "OSS_SERVICE.TRAFFIC_BUSY.1G",
+          "updateTime": 1596959924000,
+          "updateType": 0
+        },
+        {
+          "componentCode": "TRAFFIC_LEISURE",
+          "componentId": null,
+          "componentParentId": null,
+          "componentProperty": "{\"specificationCode\":\"OSS_SERVICE.TRAFFIC_LEISURE.1G\"}",
+          "createTime": 1596959924000,
+          "id": 47542,
+          "instanceId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+          "specificationCode": "OSS_SERVICE.TRAFFIC_LEISURE.1G",
+          "updateTime": 1596959924000,
+          "updateType": 0
+        }
+      ],
+      "instanceDescription": null,
+      "instanceEndTime": null,
+      "instanceLabel": 1,
+      "instanceName": "对象存储后付费服务",
+      "instanceParentId": null,
+      "instanceReleaseTime": null,
+      "instanceRestartTime": null,
+      "instanceStartTime": 1596959924000,
+      "isMspProduct": null,
+      "isOld": 0,
+      "isPay": 1,
+      "isPayClose": 0,
+      "operationStatus": 2,
+      "orderId": 1292369704320565263,
+      "payType": "CHARGING_HOURS",
+      "productCode": "OSS_SERVICE",
+      "productGroupId": null,
+      "regionId": "*",
+      "regionName": null,
+      "renewType": null,
+      "rentCount": null,
+      "rentUnit": null,
+      "trialDescription": null,
+      "turnFormalTime": null,
+      "updateTime": 1596959923000,
+      "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+      "userName": "liyu77",
+      "userParentId": null
+    }
+  ],
+  "status": true
+}
+2020-12-17 10:18:42,536 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "OSS": "java.lang.Exception: {\"success\":true,\"code\":\"0\",\"message\":\"Successful!\",\"data\":null}",
+    "OSSAPI": "java.lang.Exception: {\"success\":true,\"code\":\"0\",\"message\":\"Successful!\",\"data\":null}",
+    "OSSDATA": "java.lang.Exception: {\"success\":true,\"code\":\"0\",\"message\":\"Successful!\",\"data\":null}"
+  },
+  "status": true
+}
+2020-12-17 10:18:42,645 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [
+    {
+      "chargeType": "prepaid",
+      "checkBalanceAmount": -1,
+      "formula": "x",
+      "freeTrials": false,
+      "id": 318,
+      "ownTimeFlag": false,
+      "paymentMethodCode": "YEAR_MONTH",
+      "paymentMethodName": "包年包月",
+      "productCode": "OSS",
+      "productName": "对象存储资源包",
+      "regionId": "tetett",
+      "regionName": "牧野2",
+      "sequenceNum": 2147483647,
+      "status": 2,
+      "tagFlag": 0,
+      "type": 0
+    },
+    {
+      "chargeType": "prepaid",
+      "checkBalanceAmount": -1,
+      "formula": "x",
+      "freeTrials": false,
+      "id": 335,
+      "ownTimeFlag": false,
+      "paymentMethodCode": "DAY_TRIAL",
+      "paymentMethodName": "免费试用",
+      "productCode": "OSS",
+      "productName": "对象存储资源包",
+      "regionId": "tetett",
+      "regionName": "牧野2",
+      "sequenceNum": 2147483647,
+      "status": 2,
+      "tagFlag": 1,
+      "type": 0
+    }
+  ],
+  "status": true
+}
+2020-12-17 10:18:42,661 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "OSS": [
+      {
+        "createTime": 1588733568000,
+        "display": "1个月",
+        "id": 87,
+        "productCode": "OSS",
+        "purchaseTime": 1,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733632000
+      },
+      {
+        "createTime": 1588733581000,
+        "display": "2个月",
+        "id": 88,
+        "productCode": "OSS",
+        "purchaseTime": 2,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733635000
+      },
+      {
+        "createTime": 1588733588000,
+        "display": "3个月",
+        "id": 89,
+        "productCode": "OSS",
+        "purchaseTime": 3,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733637000
+      },
+      {
+        "createTime": 1588733599000,
+        "display": "6个月",
+        "id": 90,
+        "productCode": "OSS",
+        "purchaseTime": 6,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733638000
+      },
+      {
+        "createTime": 1588733609000,
+        "display": "1年",
+        "id": 91,
+        "productCode": "OSS",
+        "purchaseTime": 12,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733640000
+      },
+      {
+        "createTime": 1588733618000,
+        "display": "2年",
+        "id": 92,
+        "productCode": "OSS",
+        "purchaseTime": 24,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733641000
+      },
+      {
+        "createTime": 1588733626000,
+        "display": "3年",
+        "id": 93,
+        "productCode": "OSS",
+        "purchaseTime": 36,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588733643000
+      }
+    ],
+    "OSSAPI": [
+      {
+        "createTime": 1588746921000,
+        "display": "1个月",
+        "id": 94,
+        "productCode": "OSSAPI",
+        "purchaseTime": 1,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756115000
+      },
+      {
+        "createTime": 1588746932000,
+        "display": "2个月",
+        "id": 95,
+        "productCode": "OSSAPI",
+        "purchaseTime": 2,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756117000
+      },
+      {
+        "createTime": 1588746938000,
+        "display": "3个月",
+        "id": 96,
+        "productCode": "OSSAPI",
+        "purchaseTime": 3,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756118000
+      },
+      {
+        "createTime": 1588746946000,
+        "display": "6个月",
+        "id": 97,
+        "productCode": "OSSAPI",
+        "purchaseTime": 6,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756120000
+      },
+      {
+        "createTime": 1588746958000,
+        "display": "1年",
+        "id": 98,
+        "productCode": "OSSAPI",
+        "purchaseTime": 12,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756122000
+      },
+      {
+        "createTime": 1588746965000,
+        "display": "2年",
+        "id": 99,
+        "productCode": "OSSAPI",
+        "purchaseTime": 24,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756123000
+      },
+      {
+        "createTime": 1588746974000,
+        "display": "3年",
+        "id": 100,
+        "productCode": "OSSAPI",
+        "purchaseTime": 36,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588756125000
+      }
+    ],
+    "OSSDATA": [
+      {
+        "createTime": 1588757411000,
+        "display": "1个月",
+        "id": 101,
+        "productCode": "OSSDATA",
+        "purchaseTime": 1,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757478000
+      },
+      {
+        "createTime": 1588757418000,
+        "display": "2个月",
+        "id": 102,
+        "productCode": "OSSDATA",
+        "purchaseTime": 2,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757480000
+      },
+      {
+        "createTime": 1588757437000,
+        "display": "3个月",
+        "id": 103,
+        "productCode": "OSSDATA",
+        "purchaseTime": 3,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757481000
+      },
+      {
+        "createTime": 1588757451000,
+        "display": "6个月",
+        "id": 104,
+        "productCode": "OSSDATA",
+        "purchaseTime": 6,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757483000
+      },
+      {
+        "createTime": 1588757460000,
+        "display": "1年",
+        "id": 105,
+        "productCode": "OSSDATA",
+        "purchaseTime": 12,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757484000
+      },
+      {
+        "createTime": 1588757467000,
+        "display": "2年",
+        "id": 106,
+        "productCode": "OSSDATA",
+        "purchaseTime": 24,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757486000
+      },
+      {
+        "createTime": 1588757475000,
+        "display": "3年",
+        "id": 107,
+        "productCode": "OSSDATA",
+        "purchaseTime": 36,
+        "purchaseTimeUnitCode": "month",
+        "purchaseTimeUnitName": "月",
+        "sequence": 2147483647,
+        "status": 1,
+        "updateTime": 1588757488000
+      }
+    ]
+  },
+  "status": true
+}
+2020-12-17 10:18:42,667 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "资源包列表",
+  "res": {
+    "currentPage": 1,
+    "list": [],
+    "pageSize": 10,
+    "totalCount": 0,
+    "totalPages": 1
+  },
+  "status": true
+}
+2020-12-17 10:18:42,673 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "资源包使用明细",
+  "res": {
+    "currentPage": 1,
+    "list": [],
+    "pageSize": 10,
+    "totalCount": 0,
+    "totalPages": 1
+  },
+  "status": true
+}
+2020-12-17 10:18:42,683 - logs… - INFO - {
+  "auth": true,
+  "code": 0,
+  "msg": "对象存储后付费使用信息",
+  "res": {
+    "endTime": null,
+    "instanceList": null,
+    "startTime": null
+  },
+  "status": true
+}
+2020-12-17 10:18:42,714 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "access_info": {
+      "access_key": "znO4FsoZop7L4GII",
+      "access_secret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+      "create_at": null,
+      "enabled": 1,
+      "expired_at": null,
+      "project_id": "f71633ba-8010-4330-b572-46852d50d939",
+      "project_name": "f71633ba80104330b57246852d50d939",
+      "type": "OSS",
+      "user_id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+    },
+    "child_user": null,
+    "policy_list": [],
+    "root_user": {
+      "default_project_uuid": "f71633ba-8010-4330-b572-46852d50d939",
+      "enabled": 1,
+      "id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+      "name": "liyu77",
+      "type": "PUBLIC"
+    }
+  },
+  "status": true
+}
+2020-12-17 10:18:42,731 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "accessKey": "znO4FsoZop7L4GII",
+    "accessSecret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+    "createAt": "1585303396000",
+    "enabled": 1,
+    "expiredAt": null,
+    "projectId": "f71633ba-8010-4330-b572-46852d50d939",
+    "projectName": "f71633ba80104330b57246852d50d939",
+    "signature": null,
+    "temp": null,
+    "type": "OSS",
+    "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+  },
+  "status": true
+}
+2020-12-17 10:18:42,740 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "content": [],
+    "page": 0,
+    "size": 50,
+    "total_count": 0
+  },
+  "status": true
+}
+2020-12-17 10:18:42,750 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "access_info": {
+      "access_key": "znO4FsoZop7L4GII",
+      "access_secret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+      "create_at": null,
+      "enabled": 1,
+      "expired_at": null,
+      "project_id": "f71633ba-8010-4330-b572-46852d50d939",
+      "project_name": "f71633ba80104330b57246852d50d939",
+      "type": "OSS",
+      "user_id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+    },
+    "child_user": null,
+    "policy_list": [],
+    "root_user": {
+      "default_project_uuid": "f71633ba-8010-4330-b572-46852d50d939",
+      "enabled": 1,
+      "id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18",
+      "name": "liyu77",
+      "type": "PUBLIC"
+    }
+  },
+  "status": true
+}
+2020-12-17 10:18:42,758 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "accessKey": "znO4FsoZop7L4GII",
+    "accessSecret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+    "createAt": "1585303396000",
+    "enabled": 1,
+    "expiredAt": null,
+    "projectId": "f71633ba-8010-4330-b572-46852d50d939",
+    "projectName": "f71633ba80104330b57246852d50d939",
+    "signature": null,
+    "temp": null,
+    "type": "OSS",
+    "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+  },
+  "status": true
+}
+2020-12-17 10:18:42,775 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "GET": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0,
+      "2020-12-17 10:00:00": 0
+    },
+    "GETunit": "次",
+    "PUT": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0,
+      "2020-12-17 10:00:00": 0
+    },
+    "PUTunit": "次"
+  },
+  "status": true
+}
+2020-12-17 10:18:42,786 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "data": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0,
+      "2020-12-17 10:00:00": 0
+    },
+    "unit": "B"
+  },
+  "status": true
+}
+2020-12-17 10:18:42,815 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "GLACIER": {
+      "2020-12-17 00:00:00": 308.0,
+      "2020-12-17 01:00:00": 308.0,
+      "2020-12-17 02:00:00": 308.0,
+      "2020-12-17 03:00:00": 308.0,
+      "2020-12-17 04:00:00": 308.0,
+      "2020-12-17 05:00:00": 308.0,
+      "2020-12-17 06:00:00": 308.0,
+      "2020-12-17 07:00:00": 308.0,
+      "2020-12-17 08:00:00": 308.0,
+      "2020-12-17 09:00:00": 308.0,
+      "2020-12-17 10:00:00": 308.0
+    },
+    "GLACIERunit": "K",
+    "STANDARD": {
+      "2020-12-17 00:00:00": 885.9,
+      "2020-12-17 01:00:00": 885.9,
+      "2020-12-17 02:00:00": 885.9,
+      "2020-12-17 03:00:00": 885.9,
+      "2020-12-17 04:00:00": 885.9,
+      "2020-12-17 05:00:00": 885.9,
+      "2020-12-17 06:00:00": 885.9,
+      "2020-12-17 07:00:00": 885.9,
+      "2020-12-17 08:00:00": 885.9,
+      "2020-12-17 09:00:00": 885.9,
+      "2020-12-17 10:00:00": 885.9
+    },
+    "STANDARD_IA": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0,
+      "2020-12-17 10:00:00": 0
+    },
+    "STANDARD_IAunit": "B",
+    "STANDARDunit": "M"
+  },
+  "status": true
+}
+2020-12-17 10:18:42,826 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "api_get": "0次",
+    "api_put": "0次",
+    "flow_get": "0B"
+  },
+  "status": true
+}
+2020-12-17 10:18:42,885 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "bucket_num": "8"
+  },
+  "status": true
+}
+2020-12-17 10:18:42,893 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "GLACIER": "0B",
+    "STANDARD": "0B",
+    "STANDARD_IA": "0B"
+  },
+  "status": true
+}
+2020-12-17 10:18:42,900 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "GLACIER": "0B",
+    "STANDARD": "0B",
+    "STANDARD_IA": "0B"
+  },
+  "status": true
+}
+2020-12-17 10:18:42,918 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "GET": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0,
+      "2020-12-17 10:00:00": 0
+    },
+    "GETunit": "次",
+    "PUT": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0,
+      "2020-12-17 10:00:00": 0
+    },
+    "PUTunit": "次"
+  },
+  "status": true
+}
+2020-12-17 10:18:42,993 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "true",
+  "res": [
+    {
+      "endPoint": "bj.unicloud.com",
+      "endPointInternal": "bj-internal.unicloud.com",
+      "promEndPoint": "bj.unicloud.com:9090",
+      "regionId": "d8812c35-b90a-4c06-86c0-dbas4630",
+      "regionName": "华北1-天津"
+    },
+    {
+      "endPoint": "s3.test.com",
+      "endPointInternal": "s3-internal.test.com",
+      "promEndPoint": "s3.test.com:9090",
+      "regionId": "tetett",
+      "regionName": "牧野2"
+    }
+  ],
+  "status": true
+}
+2020-12-17 10:18:42,999 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "true",
+  "res": "s3.test.com",
+  "status": true
+}
+2020-12-17 10:18:43,010 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "data": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0,
+      "2020-12-17 10:00:00": 0
+    },
+    "unit": "B"
+  },
+  "status": true
+}
+2020-12-17 10:18:43,034 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "GLACIER": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0,
+      "2020-12-17 10:00:00": 0
+    },
+    "GLACIERunit": "B",
+    "STANDARD": {
+      "2020-12-17 00:00:00": 172.74,
+      "2020-12-17 01:00:00": 172.74,
+      "2020-12-17 02:00:00": 172.74,
+      "2020-12-17 03:00:00": 172.74,
+      "2020-12-17 04:00:00": 172.74,
+      "2020-12-17 05:00:00": 172.74,
+      "2020-12-17 06:00:00": 172.74,
+      "2020-12-17 07:00:00": 172.74,
+      "2020-12-17 08:00:00": 172.74,
+      "2020-12-17 09:00:00": 172.74,
+      "2020-12-17 10:00:00": 172.74
+    },
+    "STANDARD_IA": {
+      "2020-12-17 00:00:00": 0,
+      "2020-12-17 01:00:00": 0,
+      "2020-12-17 02:00:00": 0,
+      "2020-12-17 03:00:00": 0,
+      "2020-12-17 04:00:00": 0,
+      "2020-12-17 05:00:00": 0,
+      "2020-12-17 06:00:00": 0,
+      "2020-12-17 07:00:00": 0,
+      "2020-12-17 08:00:00": 0,
+      "2020-12-17 09:00:00": 0,
+      "2020-12-17 10:00:00": 0
+    },
+    "STANDARD_IAunit": "B",
+    "STANDARDunit": "M"
+  },
+  "status": true
+}
+2020-12-17 10:18:43,038 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {},
+  "status": true
+}
+2020-12-17 10:18:43,076 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "true",
+  "res": [
+    {
+      "endPoint": "s3.test.com",
+      "endPointInternal": "s3-internal.test.com",
+      "promEndPoint": "s3.test.com:9090",
+      "regionId": "tetett",
+      "regionName": "牧野2"
+    }
+  ],
+  "status": true
+}
+2020-12-17 10:18:43,096 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "true",
+  "res": [
+    {
+      "endPoint": "s3.test.com",
+      "endPointInternal": "s3-internal.test.com",
+      "promEndPoint": "s3.test.com:9090",
+      "regionId": "tetett",
+      "regionName": "牧野2"
+    }
+  ],
+  "status": true
+}
+2020-12-17 10:18:43,107 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "api_get": "0次",
+    "api_put": "0次",
+    "flow_get": "0B"
+  },
+  "status": true
+}
+2020-12-17 10:18:43,134 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "生成预签名成功",
+  "res": "https://liyutest77.s3.test.com/test.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20201217T021843Z&X-Amz-SignedHeaders=host&X-Amz-Expires=2000&X-Amz-Credential=znO4FsoZop7L4GII%2F20201217%2Ftest%2Fs3%2Faws4_request&X-Amz-Signature=fa64a05285960bccddfdaa4e8811e4db5efb3ab1623f8196d0354225e1678ab8&X-Oss-Referer=cdn",
+  "status": true
+}
+2020-12-17 10:18:43,155 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "生成预签名成功",
+  "res": "https://liyutest77.s3.test.com/test.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20201217T021843Z&X-Amz-SignedHeaders=host&X-Amz-Expires=2000&X-Amz-Credential=znO4FsoZop7L4GII%2F20201217%2Ftest%2Fs3%2Faws4_request&X-Amz-Signature=fa64a05285960bccddfdaa4e8811e4db5efb3ab1623f8196d0354225e1678ab8&X-Oss-Referer=cdn",
+  "status": true
+}
+2020-12-17 10:18:43,160 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "该用户已开通紫光云对象存储服务",
+  "res": true,
+  "status": true
+}
+2020-12-17 10:18:43,166 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": "0",
+  "status": true
+}
+2020-12-17 10:18:43,174 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [
+    {
+      "access_key": "znO4FsoZop7L4GII",
+      "access_secret": "LHuyeubvQvHu2aiDwXJQXfwxzjnm2P",
+      "create_at": 1585303396000,
+      "enabled": 1,
+      "expired_at": null,
+      "project_id": "f71633ba-8010-4330-b572-46852d50d939",
+      "project_name": "f71633ba80104330b57246852d50d939",
+      "type": "OSS",
+      "user_id": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+    }
+  ],
+  "status": true
+}
+2020-12-17 10:18:43,190 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [],
+  "status": true
+}
+2020-12-17 10:18:43,228 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": {
+    "cacheControl": "no-store",
+    "contentDisposition": null,
+    "contentEncoding": null,
+    "contentLanguage": null,
+    "contentType": "image/jpeg",
+    "httpExpiresData": null,
+    "userMetadata": {}
+  },
+  "status": true
+}
+2020-12-17 10:18:43,244 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "图片样式获取成功",
+  "res": {
+    "currentPage": 1,
+    "list": [
+      {
+        "breviaryHeight": null,
+        "breviaryName": null,
+        "breviaryWidth": null,
+        "bucketDomain": null,
+        "bucketName": "liyutest77",
+        "editType": null,
+        "fontColor": null,
+        "fontContent": null,
+        "fontSize": null,
+        "fontType": null,
+        "imageSize": null,
+        "limitMagnify": null,
+        "pictureRotating": null,
+        "positionX": null,
+        "positionY": null,
+        "styleCode": "image/rotate,7",
+        "styleName": "liyutest1126",
+        "waterDiaphaneity": null,
+        "waterMarkName": null,
+        "waterPicturePath": null,
+        "waterPosition": null
+      }
+    ],
+    "pageSize": 10,
+    "totalCount": 1,
+    "totalPages": 1
+  },
+  "status": true
+}
+2020-12-17 10:18:43,285 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "设置样式成功",
+  "res": true,
+  "status": true
+}
+2020-12-17 10:18:43,315 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "设置样式成功",
+  "res": true,
+  "status": true
+}
+2020-12-17 10:18:43,335 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": true,
+  "status": true
+}
+2020-12-17 10:18:43,351 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": "false",
+  "status": true
+}
+2020-12-17 10:18:43,396 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": "重命名文件名成功",
+  "status": true
+}
+2020-12-17 10:18:43,406 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "生成预签名成功",
+  "res": {
+    "url": "https://liyutest77.s3.test.com/test.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20201217T021843Z&X-Amz-SignedHeaders=host&X-Amz-Expires=2000&X-Amz-Credential=znO4FsoZop7L4GII%2F20201217%2Ftest%2Fs3%2Faws4_request&X-Amz-Signature=fa64a05285960bccddfdaa4e8811e4db5efb3ab1623f8196d0354225e1678ab8"
+  },
+  "status": true
+}
+2020-12-17 15:05:43,793 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 15:05:44,112 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": "正常用户",
+  "status": true
+}
+2020-12-17 17:06:17,185 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 17:06:17,200 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "资源包使用明细",
+  "res": {
+    "currentPage": 1,
+    "list": [
+      {
+        "amountAftUse": 41839752192,
+        "amountBefUse": 42949672960,
+        "deductionProduct": "对象存储",
+        "endTime": 1608195600000,
+        "id": 3,
+        "orderId": "1339474725805506633",
+        "regionId": "tetett",
+        "resourcepackType": "标准存储包",
+        "startTime": 1608192000000,
+        "use": 1109920768,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      }
+    ],
+    "pageSize": 10,
+    "totalCount": 1,
+    "totalPages": 1
+  },
+  "status": true
+}
+2020-12-17 17:06:35,468 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-17 17:06:35,478 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": "资源包使用明细",
+  "res": {
+    "currentPage": 1,
+    "list": [
+      {
+        "amountAftUse": 41839752192,
+        "amountBefUse": 42949672960,
+        "deductionProduct": "对象存储",
+        "endTime": 1608195600000,
+        "id": 3,
+        "orderId": "1339474725805506633",
+        "regionId": "tetett",
+        "resourcepackType": "标准存储包",
+        "startTime": 1608192000000,
+        "use": 1109920768,
+        "userId": "527fbf2b-2b52-46a8-b1a8-e1d8a6f92b18"
+      }
+    ],
+    "pageSize": 10,
+    "totalCount": 1,
+    "totalPages": 1
+  },
+  "status": true
+}
+2020-12-18 14:20:04,905 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-18 14:20:04,941 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [],
+  "status": true
+}
+2020-12-18 14:20:15,278 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-18 14:20:15,297 - logs… - INFO - {
+  "auth": true,
+  "code": "0",
+  "msg": null,
+  "res": [],
+  "status": true
+}
+2020-12-18 14:22:51,976 - logs… - INFO - new_url :http://10.0.7.186:30697
+2020-12-18 14:22:51,991 - logs… - INFO - {
+  "auth": true,
+  "code": "1",
+  "msg": "获取用户自定义域名失败",
+  "res": "url错误, error: org.springframework.web.client.HttpClientErrorException: 404 Not Found",
+  "status": false
+}
